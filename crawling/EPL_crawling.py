@@ -14,7 +14,6 @@ time.sleep(3)
 
 container = driver.find_element(By.ID, 'standings-20934-content')
 team_container = container.find_elements(By.TAG_NAME, 'tr')
-print(len(team_container))
 
 all_data = []
 
