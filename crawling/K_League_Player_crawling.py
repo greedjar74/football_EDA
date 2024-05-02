@@ -17,6 +17,7 @@ time.sleep(3)
 container = driver.find_element(By.ID, 'stats_standard')
 container_tmp = container.find_element(By.TAG_NAME, 'tbody') 
 player_container = container_tmp.find_elements(By.TAG_NAME, 'tr') # 각각의 선수 데이터를 모두 가져와서 리스트에 저장
+
 all_data = []
 
 j = 0

@@ -1,0 +1,38 @@
+Name,Position,Date of Birth,Age,Nationality,Market Value
+Maxime Dupé,Goalkeeper,"Mar 4, 1993",30,France,€2.50m
+Kjetil Haug,Goalkeeper,"Jun 12, 1998",25,Norway,€400k
+Thomas Himeur,Goalkeeper,"Jan 17, 2001",22,France,€150k
+Guillaume Restes,Goalkeeper,"Mar 11, 2005",18,France,-
+Anthony Rouault,Centre-Back,"May 29, 2001",22,France,€10.00m
+Rasmus Nicolaisen,Centre-Back,"Mar 16, 1997",26,Denmark,€6.00m
+Logan Costa,Centre-Back,"Apr 1, 2001",22,Cape Verde,€1.20m
+Moussa Diarra,Centre-Back,"Nov 10, 2000",22,Mali,€800k
+Kévin Keben,Centre-Back,"Jan 26, 2004",19,Cameroon,€400k
+Christian Mawissa,Centre-Back,"Apr 18, 2005",18,France,€250k
+Issiaga Sylla,Left-Back,"Jan 1, 1994",29,Guinea,€2.50m
+Gabriel Suazo,Left-Back,"Aug 9, 1997",25,Chile,€2.50m
+Oliver Zandén,Left-Back,"Aug 14, 2001",21,Sweden,€1.00m
+Ylies Aradj,Left-Back,"Jun 5, 2005",18,France,€50k
+Mikkel Desler,Right-Back,"Feb 19, 1995",28,Denmark,€2.50m
+Warren Kamanzi,Right-Back,"Nov 11, 2000",22,Norway,€1.20m
+Stijn Spierings,Defensive Midfield,"Mar 12, 1996",27,Netherlands,€6.00m
+Branco van den Boomen,Central Midfield,"Jul 21, 1995",27,Netherlands,€12.00m
+Brecht Dejaegere,Central Midfield,"May 29, 1991",32,Belgium,€1.80m
+Vincent Sierro,Central Midfield,"Oct 8, 1995",27,Switzerland,€1.50m
+Theocharis Tsingaras,Central Midfield,"Aug 20, 2000",22,Greece,€1.20m
+Steve Mvoué,Central Midfield,"Feb 2, 2002",21,Cameroon,€400k
+Farès Chaïbi,Attacking Midfield,"Nov 28, 2002",20,Algeria,€10.00m
+Denis Genreau,Attacking Midfield,"May 21, 1999",24,Australia,€1.50m
+Naatan Skyttä,Attacking Midfield,"May 7, 2002",21,Finland,€500k
+Edhy Zuliani,Attacking Midfield,"Aug 11, 2004",18,Algeria,€50k
+Rafael Ratão,Left Winger,"Nov 30, 1995",27,Brazil,€2.50m
+Junior Flemmings,Left Winger,"Jan 16, 1996",27,Jamaica,€350k
+Zakaria Aboukhlal,Right Winger,"Feb 18, 2000",23,Morocco,€9.00m
+Nathan Ngoumou,Right Winger,"Mar 14, 2000",23,France,€5.00m
+Veljko Birmancevic,Right Winger,"Mar 5, 1998",25,Serbia,€3.00m
+Thijs Dallinga,Centre-Forward,"Aug 3, 2000",22,Netherlands,€12.00m
+Rhys Healey,Centre-Forward,"Dec 6, 1994",28,England,€2.50m
+Ado Onaiwu,Centre-Forward,"Nov 8, 1995",27,Japan,€1.50m
+Said Hamulic,Centre-Forward,"Nov 12, 2000",22,Bosnia-Herzegovina,€1.50m
+Yanis Begraoui,Centre-Forward,"Jul 4, 2001",21,Morocco,€1.00m
+Bonota Traoré,Centre-Forward,"Jun 30, 2003",20,France,€50k
