@@ -14,7 +14,7 @@ popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
 popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
 time.sleep(1)
 
-# Defensive로 이동
+# xG로 이동
 driver.find_element(By.XPATH, '//*[@id="stage-team-stats-options"]/li[4]/a').click()
 time.sleep(3)
 def_container = driver.find_element(By.ID, 'stage-team-stats-xg')
