@@ -10,9 +10,9 @@ driver.get('https://1xbet.whoscored.com/')
 time.sleep(1)
 
 # 팝업 제어
-popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
-popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
-time.sleep(1)
+#popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
+#popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
+#time.sleep(1)
 
 url_list = ['https://1xbet.whoscored.com/Regions/206/Tournaments/4/Seasons/9149/Spain-LaLiga',
             'https://1xbet.whoscored.com/Regions/206/Tournaments/4/Seasons/8681/Spain-LaLiga',

@@ -10,15 +10,15 @@ driver.get('https://1xbet.whoscored.com/')
 time.sleep(1)
 
 # 팝업 제어
-popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
-popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
-time.sleep(1)
+#popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
+#popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
+#time.sleep(1)
 
-url_list = ['https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/9075/Stages/20934/TeamStatistics/England-Premier-League-2022-2023',
-            'https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/8618/Stages/19793/TeamStatistics/England-Premier-League-2021-2022',
-            'https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/8228/Stages/18685/TeamStatistics/England-Premier-League-2020-2021',
-            'https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/7811/Stages/17590/TeamStatistics/England-Premier-League-2019-2020',
-            'https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/7361/Stages/16368/TeamStatistics/England-Premier-League-2018-2019']
+url_list = ['https://1xbet.whoscored.com/Regions/206/Tournaments/4/Seasons/9149/Stages/21073/TeamStatistics/Spain-LaLiga-2022-2023',
+            'https://1xbet.whoscored.com/Regions/206/Tournaments/4/Seasons/8681/Stages/19895/TeamStatistics/Spain-LaLiga-2021-2022',
+            'https://1xbet.whoscored.com/Regions/206/Tournaments/4/Seasons/8321/Stages/18851/TeamStatistics/Spain-LaLiga-2020-2021',
+            'https://1xbet.whoscored.com/Regions/206/Tournaments/4/Seasons/7889/Stages/17702/TeamStatistics/Spain-LaLiga-2019-2020',
+            'https://1xbet.whoscored.com/Regions/206/Tournaments/4/Seasons/7466/Stages/16546/TeamStatistics/Spain-LaLiga-2018-2019']
 
 year_list = ['22_23', '21_22', '20_21', '19_20', '18_19']
 for i in range(5):

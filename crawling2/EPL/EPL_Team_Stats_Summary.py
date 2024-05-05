@@ -10,9 +10,9 @@ driver.get('https://1xbet.whoscored.com/')
 time.sleep(1)
 
 # 팝업 제어
-popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
-popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
-time.sleep(1)
+#popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
+#popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
+#time.sleep(1)
 
 url_list = ['https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/9075/Stages/20934/TeamStatistics/England-Premier-League-2022-2023',
             'https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/8618/Stages/19793/TeamStatistics/England-Premier-League-2021-2022',
@@ -50,6 +50,6 @@ for i in range(5):
         all_data.append(team_data)
 
     team_df = pd.DataFrame(all_data)
-    team_df.columns = ['Team', 'P', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts']
+    team_df.columns = ['Team', 'Goals', 'Shotspg', 'Yellow', 'Red', 'Possession', 'Pass', 'AerialsWon', 'Rating']
     team_df.to_csv(f'{year}_EPL_Team_Stats_Summary.csv', encoding='utf-8-sig')
     print(team_df.tail())

@@ -10,9 +10,9 @@ driver.get('https://1xbet.whoscored.com/')
 time.sleep(1)
 
 # 팝업 제어
-popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
-popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
-time.sleep(1)
+#popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
+#popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
+#time.sleep(1)
 
 url_list = ['https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/9075/Stages/20934/PlayerStatistics/England-Premier-League-2022-2023',
             'https://1xbet.whoscored.com/Regions/252/Tournaments/2/Seasons/8618/Stages/19793/PlayerStatistics/England-Premier-League-2021-2022',

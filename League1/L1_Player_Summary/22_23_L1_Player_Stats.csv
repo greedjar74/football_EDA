@@ -1,0 +1,312 @@
+﻿,Name,Team,Age,Position,Apps,Mins,Goals,Assists,Yellow,Red,SpG,PS,Aerialswon,MotM,Rating
+0,Lionel Messi,PSG,36," AM(CR),FW",32,2842,16,16,-,-,4,83.1,-,14,8.28
+1,Kylian Mbappé,PSG,25," AM(CLR),FW",32(2),2822,29,5,6,-,4.4,82.9,0.2,7,7.80
+2,Neymar,PSG,32," AM(CLR),FW",18(2),1553,13,11,4,1,1.9,82.7,0.1,3,7.71
+3,Alexandre Lacazette,Lyon,32," M(CLR),FW",34(1),2938,27,5,3,-,3.3,75.5,0.8,5,7.42
+4,Rémy Cabella,Lille,34," M(CLR),FW",28(4),2535,7,10,3,-,1.3,84.3,0.3,5,7.38
+5,Téji Savanier,Montpellier,32, M(C),30,2557,12,4,4,3,2.1,77.9,0.4,7,7.28
+6,Enzo Le Fée,Lorient,24, M(CLR),35,3039,5,5,5,-,1.3,84.7,0.3,5,7.26
+7,Jonathan David,Lille,24," AM(C),FW",36(1),3179,24,4,6,-,2.9,82.7,0.4,5,7.18
+8,Benjamin André,Lille,33," D(R),M(CLR)",33(1),2919,1,1,12,-,0.7,84.3,2.7,3,7.16
+9,Benjamin Lecomte,Montpellier,33, GK,19,1710,-,-,-,-,-,60,0.3,1,7.15
+10,Benjamin Bourigeaud,Rennes,30, M(CLR),37,3084,7,10,4,1,2,80.8,0.3,4,7.15
+11,Florian Sotoca,Lens,33," M(CR),FW",34(4),3064,7,9,4,-,2.3,80.1,1.5,4,7.13
+12,Amine Gouiri,Rennes,24," AM(CL),FW",29(4),2532,15,3,3,-,2.2,79.8,0.9,1,7.12
+13,Gaëtan Laborde,Nice,30," AM(CLR),FW",28(5),2514,13,3,-,-,2.3,71,1.5,4,7.12
+14,Aleksandr Golovin,Monaco,27, M(CLR),29(5),2484,8,7,5,-,1.4,74.8,0.5,3,7.11
+15,Seko Fofana,Lens,28, M(C),34(1),3079,7,5,2,-,2.4,89.3,0.6,4,7.10
+16,Andrei Girotto,Nantes,32," D(C),DMC",36,3153,1,1,7,-,0.8,83,2.2,4,7.09
+17,Edon Zhegrova,Lille,25, AM(R),11(11),1056,3,4,1,-,1.9,82.5,-,2,7.08
+18,Branco van den Boomen,Toulouse,28, DMC,32(3),2893,5,8,6,-,1.5,83,0.2,1,7.08
+19,Jérémy Doku,Rennes,21, M(LR),13(16),1287,6,2,-,-,0.9,86.4,0.1,4,7.08
+20,Jean-Ricner Bellegarde,Strasbourg,25, M(CLR),29(1),2428,2,6,5,-,1.3,81.6,0.7,5,7.07
+21,Steve Mounié,Brest,29, FW,20(3),1662,6,-,2,-,2.6,56.2,6.6,2,7.07
+22,Wissam Ben Yedder,Monaco,33," AM(C),FW",28(4),2130,19,6,4,-,2.3,76.5,0.5,4,7.07
+23,Fabien Centonze,Nantes,28," D(R),M(R)",19(4),1693,-,-,4,-,0.6,79.3,1.4,1,7.06
+24,Nuno Mendes,PSG,21," D(L),M(L)",18(5),1554,1,5,2,-,0.4,86.9,0.4,-,7.04
+25,Maxence Caqueret,Lyon,24, M(C),32(4),2778,4,7,2,-,0.7,86.3,0.4,2,7.04
+26,Alexis Sánchez,Marseille,35," M(CLR),FW",32(3),2699,14,3,3,-,1.9,75.8,1,6,7.04
+27,Habib Diallo,Strasbourg,28," AM(R),FW",32(5),2880,20,1,2,1,2.5,67.7,3.6,5,7.04
+28,Nabil Bentaleb,Angers,29, M(C),29(1),2492,4,4,5,1,1.4,85.2,1,4,7.03
+29,Przemyslaw Frankowski,Lens,29," D(R),M(CLR)",31(6),2838,5,3,4,-,0.8,82.1,0.3,3,7.03
+30,Ludovic Blas,Nantes,26," M(CLR),FW",30(7),2821,7,5,6,-,2.7,85.5,0.5,3,7.01
+31,Valentin Rongier,Marseille,29," D(R),M(C)",34(2),3034,1,2,8,-,0.6,88.5,1.2,1,7.00
+32,Franck Honorat,Brest,27," M(LR),FW",29(4),2546,6,5,1,-,1.4,75,0.4,3,7.00
+33,Loïs Openda,Lens,24, FW,29(9),2529,21,4,2,-,2.7,71.2,0.3,6,6.99
+34,Rayan Cherki,Lyon,20," AM(CLR),FW",21(13),1874,4,6,3,-,1.8,81,0.1,3,6.99
+35,Pierre Lees-Melou,Brest,30, M(CLR),32,2773,5,5,10,1,1.3,83.9,0.6,3,6.99
+36,Hicham Boudaoui,Nice,24, M(CR),22(5),1882,1,2,5,-,0.8,89.7,0.3,-,6.97
+37,Nicolas Pépé,Nice,28," AM(CLR),FW",17(2),1529,6,-,2,-,2.6,83.1,0.4,1,6.96
+38,Jonathan Clauss,Marseille,31," D(R),M(LR)",32(2),2604,2,9,1,-,1.4,75.8,0.3,2,6.95
+39,Jonathan Gradit,Lens,31, D(CR),33,2830,1,3,7,-,0.2,90.2,1.5,-,6.95
+40,Dante,Nice,40, D(C),37,3300,1,2,6,-,0.6,90.1,2,-,6.94
+41,Yunis Abdelhamid,Reims,36, D(C),37,3330,1,2,6,-,0.9,83.1,2.5,1,6.94
+42,Rasmus Nicolaisen,Toulouse,27, D(C),34,2997,-,2,5,1,0.4,84.3,3.4,1,6.94
+43,Achraf Hakimi,PSG,25," D(LR),M(R)",23(5),2053,5,3,5,2,0.6,90.2,0.3,-,6.94
+44,Yehvann Diouf,Reims,24, GK,31,2790,-,-,2,-,-,76.4,0.5,2,6.94
+45,Kevin Danso,Lens,25, D(C),37,3234,1,2,7,1,0.6,90.1,2.3,2,6.94
+46,Bradley Barcola,Lyon,21," AM(LR),FW",15(11),1438,5,8,3,-,1,72.4,0.6,3,6.94
+47,Marco Verratti,PSG,31, M(C),27(2),2206,-,-,10,1,0.3,92.9,0.4,-,6.94
+48,Vanderson,Monaco,22," D(R),M(R)",24(7),2220,1,4,3,1,0.8,77.9,0.9,2,6.93
+49,Adrien Thomasson,Lens,30, M(CLR),16(4),1288,5,5,1,-,1.1,80.3,0.6,-,6.92
+50,Alexander Djiku,Strasbourg,29," D(CR),DMC",31,2681,1,2,8,1,0.5,80.8,3,1,6.92
+51,Caio Henrique,Monaco,26," D(L),M(CL)",32(3),2898,1,9,3,-,0.3,80.3,0.5,2,6.92
+52,Karl Toko-Ekambi,Lyon,31," AM(LR),FW",15(4),1357,4,2,1,-,2.2,82.3,0.8,2,6.91
+53,Jonathan Bamba,Lille,28," AM(CLR),FW",32(2),2790,6,7,6,-,2.1,83.8,0.6,2,6.91
+54,Neto Borges,Clermont Foot,27," D(CL),M(L)",33,2840,3,1,2,2,0.7,79.5,1.1,4,6.91
+55,Khéphren Thuram,Nice,23," DMC,M(L)",30(5),2560,2,4,3,-,1.1,86.9,0.5,1,6.91
+56,Folarin Balogun,Reims,22, FW,34(3),3013,21,2,5,-,3.5,72.5,0.4,4,6.90
+57,Azor Matusiwa,Reims,26, DMC,29(1),2492,-,-,4,-,0.4,85.7,1.1,-,6.89
+58,Youssouf Fofana,Monaco,25, DMC,35(1),3089,2,2,1,2,1.2,82.5,0.6,-,6.89
+59,Fabián Ruiz,PSG,28, M(CL),21(6),1899,3,2,-,-,1,92.3,0.2,1,6.89
+60,Junya Ito,Reims,31," M(LR),FW",34(1),2930,6,5,3,1,1.2,71.3,0.8,3,6.89
+61,Romain Del Castillo,Brest,28," AM(CLR),FW",16(11),1429,6,6,2,-,1.3,72.3,0.7,2,6.88
+62,Gianluigi Donnarumma,PSG,25, GK,38,3410,-,-,3,-,-,84,0.3,3,6.88
+63,Marshall Munetsi,Reims,27," D(C),M(C)",31(3),2708,7,3,6,-,2,75.3,1.7,-,6.88
+64,Cengiz Ünder,Marseille,26, M(CLR),28(9),2497,5,4,3,-,1.9,77.1,0.3,4,6.87
+65,Elye Wahi,Montpellier,21," AM(L),FW",29(4),2530,19,5,8,1,1.9,70.7,0.6,2,6.87
+66,Rony Lopes,Troyes,28," AM(CLR),FW",29(3),2360,7,5,2,-,1.8,75.2,0.6,2,6.87
+67,Nicolás Tagliafico,Lyon,31," D(CL),M(L)",34,2995,1,3,5,-,0.7,85.8,1.3,1,6.86
+68,Malo Gusto,Lyon,20," D(R),M(R)",19(2),1602,-,1,1,-,0.3,85.1,0.4,1,6.86
+69,Nuno Tavares,Marseille,24," D(L),M(L)",23(8),2349,6,-,6,1,2.1,79.1,0.7,1,6.86
+70,Jordan Veretout,Marseille,31, M(C),31(7),2864,4,3,4,-,0.8,87.9,0.5,1,6.85
+71,Baptiste Santamaría,Rennes,29, DMC,20(5),1815,2,-,2,-,0.8,85.5,2.4,1,6.84
+72,Rafael Ratão,Toulouse,28, AM(LR),25(5),1871,5,4,2,-,1,77.7,0.3,1,6.84
+73,Axel Disasi,Monaco,26, D(CR),37(1),3330,3,3,3,-,0.8,83.8,2.6,1,6.83
+74,Samuel Gigot,Marseille,30, D(C),24(2),1889,2,2,3,2,0.5,87.3,2.2,2,6.83
+75,Breel Embolo,Monaco,27," AM(CR),FW",19(13),1856,12,2,3,-,1.3,70.1,1.1,1,6.83
+76,Adrien Truffert,Rennes,22," D(L),M(L)",24(4),1962,-,6,2,-,0.4,80.8,1.2,1,6.83
+77,Ismaily,Lille,34, D(L),21(2),1785,2,1,-,-,0.6,81,1.6,-,6.83
+78,Corentin Tolisso,Lyon,29," D(R),M(CR)",25(5),2050,1,2,3,-,1,88.8,1.2,1,6.82
+79,Alexis Flips,Reims,24, M(CLR),28(5),1998,4,6,3,1,1.6,72.6,0.4,2,6.82
+80,Mory Diaw,Clermont Foot,30, GK,37,3330,-,-,-,-,-,66.8,0.1,3,6.82
+81,Hamari Traoré,Rennes,32," D(R),M(R)",28(3),2531,1,4,5,-,1,87,1.1,-,6.82
+82,Sergio Ramos,PSG,38, D(CR),31(2),2709,2,1,3,1,0.6,94.8,1.7,-,6.82
+83,Jordan Lotomba,Nice,25," D(LR),M(R)",27(6),2456,-,2,4,-,0.4,85.2,0.8,2,6.82
+84,Chancel Mbemba,Marseille,29," D(CLR),DMC",32(4),2850,5,-,2,-,0.8,84.4,2,1,6.82
+85,Stijn Spierings,Toulouse,28, M(C),35(1),3123,2,-,6,-,0.7,86.1,0.6,-,6.81
+86,Pau López,Marseille,29, GK,32(1),2925,-,2,3,-,-,76,0.3,1,6.81
+87,Alban Lafont,Nantes,25, GK,37,3330,-,-,-,1,-,64.6,0.2,5,6.81
+88,Mikkel Desler,Toulouse,29," D(R),M(R)",26(1),2262,1,2,4,1,0.4,86.2,0.9,1,6.80
+89,Facundo Medina,Lens,24, D(CL),32,2784,2,4,7,-,0.6,90.8,1.2,1,6.80
+90,Maxime Dupé,Toulouse,31, GK,38,3420,-,-,1,-,-,75.2,0.3,4,6.80
+91,Adam Ounas,Lille,27," AM(CLR),FW",12(9),1065,1,1,2,-,1.2,79.7,0.2,1,6.80
+92,Brendan Chardonnet,Brest,29, D(C),27(3),2489,-,-,6,-,0.5,80.8,3.1,-,6.79
+93,Montassar Talbi,Lorient,25, D(C),38,3420,1,2,-,-,0.2,89.1,2.4,1,6.79
+94,Johan Gastien,Clermont Foot,36, DMC,29(2),2607,4,3,7,-,0.6,84.7,0.3,2,6.79
+95,Alexsandro Ribeiro,Lille,24, D(C),16(5),1611,3,-,4,-,0.8,90.8,1.5,2,6.79
+96,Salis Abdul Samed,Lens,24, DMC,33,2897,1,1,6,1,0.4,92.6,0.4,-,6.79
+97,Emmanuel Agbadou,Reims,26," D(CR),DMC",27(2),2390,-,3,5,3,0.8,86,2.1,1,6.79
+98,Kasper Schmeichel,Nice,37, GK,36,3240,-,-,-,-,-,74.9,0.1,2,6.79
+99,Jean-Clair Todibo,Nice,24, D(C),33(1),2873,-,-,2,2,0.4,88.9,1.1,1,6.79
+100,Mohamed Camara,Monaco,24, DMC,25(4),2200,-,3,6,1,0.9,87.6,0.5,1,6.78
+101,Krépin Diatta,Monaco,25," D(R),M(CLR),FW",22(9),2079,4,2,3,-,1.3,79.4,1.3,1,6.78
+102,Himad Abdelli,Angers,24," AM(CL),FW",24(6),2141,2,2,3,-,0.8,85.1,0.6,3,6.78
+103,Rominigue Kouamé,Troyes,27, DMC,31(1),2669,1,1,9,-,0.8,89.1,0.7,1,6.77
+104,Brice Samba,Lens,30, GK,37,3330,-,-,3,-,-,73,0.2,1,6.77
+105,Arnaud Nordin,Montpellier,25," AM(CLR),FW",30(6),2419,9,3,4,-,1.6,78,0.6,1,6.76
+106,Danilo Pereira,PSG,32," D(C),DMC",27(6),2411,2,-,3,-,0.7,94.6,1,-,6.76
+107,Guillermo Maripán,Monaco,29, D(C),25(1),2160,3,-,4,1,0.6,87.5,1.8,1,6.76
+108,Nordi Mukiele,PSG,26," D(CR),M(R)",12(7),1133,-,3,-,-,0.6,88.4,1.1,1,6.76
+109,Melvin Bard,Nice,23," D(L),M(L)",28(5),2460,-,-,6,-,0.2,82.3,1,-,6.75
+110,Sinaly Diomandé,Lyon,23, D(CR),22(2),1959,-,-,2,1,0.4,85.6,2.3,-,6.75
+111,Alidu Seidu,Clermont Foot,23, D(CR),28,2463,-,-,10,1,0.2,86.8,0.9,-,6.75
+112,Faitout Maouassa,Montpellier,25," D(L),M(LR)",23(10),1935,5,5,-,-,1,69.7,0.4,-,6.75
+113,Sead Kolasinac,Marseille,30," D(CL),DMC,M(L)",26(7),2219,4,1,3,-,0.7,86.3,1.2,2,6.74
+114,Vitinha,PSG,24, M(C),29(7),2461,2,3,3,-,0.9,92.4,0.1,-,6.74
+115,Christopher Jullien,Montpellier,31, D(C),30,2696,-,2,5,-,0.6,83.1,2.9,-,6.74
+116,Saîf-Eddine Khaoui,Clermont Foot,29, AM(CR),23(11),2036,7,3,4,-,1.4,73.1,0.4,2,6.74
+117,Jérémy Le Douaron,Brest,26," AM(L),FW",24(8),2080,10,3,1,-,1.7,73,1.9,2,6.73
+118,Castello Lukeba,Lyon,21, D(C),33(1),2986,2,-,7,1,0.4,90.4,1.1,-,6.73
+119,Mama Baldé,Troyes,28," D(R),M(CLR),FW",30(4),2672,12,3,4,2,2.2,68.1,1.3,3,6.73
+120,Gideon Mensah,Auxerre,25," D(L),M(L)",26,2263,-,-,5,-,0.2,79.6,0.8,2,6.73
+121,Sofiane Diop,Nice,23, AM(CLR),14(8),1231,1,4,1,-,1.3,82.5,0.5,1,6.73
+122,Jubal,Auxerre,30, D(C),35(2),3216,3,1,7,-,0.5,81.9,2.1,2,6.73
+123,Leonardo Balerdi,Marseille,25, D(C),30(5),2643,-,1,9,1,0.3,84.1,2,-,6.73
+124,Quentin Merlin,Nantes,21," D(L),M(L)",22(2),1803,1,2,2,-,0.6,77.9,0.7,1,6.73
+125,Badredine Bouanani,Nice,19, AM(R),9(10),861,-,4,-,-,1.3,83.3,0.1,-,6.72
+126,Lovro Majer,Rennes,26, AM(CR),18(14),1670,2,5,3,-,1.1,82.1,0.2,1,6.72
+127,Laurent Abergel,Lorient,31, DMC,28(1),2351,-,1,5,1,0.4,88.7,0.3,-,6.72
+128,Deiver Machado,Lens,30, M(L),26(7),2206,4,3,5,1,0.5,85.7,0.5,2,6.72
+129,Marquinhos,PSG,29," D(CR),DMC",30(3),2718,2,-,4,-,0.5,95.4,1.1,-,6.72
+130,Désiré Doué,Rennes,18, AM(CLR),11(15),1116,3,1,5,-,0.8,81.2,0.4,1,6.71
+131,Angel Gomes,Lille,23," M(CL),FW",34(2),2836,2,6,9,-,1.6,87.9,0.3,1,6.71
+132,Arthur Theate,Rennes,23, D(CL),35,3129,4,-,5,-,0.9,89.6,2,1,6.71
+133,André Gomes,Lille,30, M(CLR),18(8),1628,3,2,6,-,0.7,89.2,0.7,1,6.71
+134,Steve Mandanda,Rennes,39, GK,34,3016,-,1,1,-,-,71.9,0.2,2,6.70
+135,Marco Bizot,Brest,33, GK,37,3330,-,-,4,-,-,68.2,0.1,3,6.70
+136,Zakaria Aboukhlal,Toulouse,24, AM(LR),28(9),2480,10,5,4,-,2.2,76.7,0.3,3,6.70
+137,Farès Chaïbi,Toulouse,21," AM(CL),FW",24(12),2345,5,5,2,-,1.8,76.5,0.9,-,6.70
+138,Jean-Charles Castelletto,Nantes,29, D(CR),30(2),2569,-,-,3,-,0.3,82.8,2.4,-,6.69
+139,Aaron Ramsey,Nice,33, M(CLR),18(9),1588,1,1,3,-,0.8,87.8,0.2,1,6.69
+140,Tiago Djaló,Lille,24, D(CLR),24(1),2022,2,-,7,-,0.6,93.1,1.1,1,6.69
+141,Gédéon Kalulu,Lorient,26," D(R),M(R)",28(1),2442,-,4,6,-,0.3,82,1,1,6.69
+142,Nuno da Costa,Auxerre,33," AM(CLR),FW",23(10),2017,5,4,3,1,1.2,69.9,1.4,3,6.69
+143,Anthony Lopes,Lyon,33, GK,32,2817,-,-,2,1,-,74.3,0.1,-,6.69
+144,Alexander Nübel,Monaco,27, GK,38,3420,-,-,2,-,-,69.4,0.2,1,6.68
+145,Joris Chotard,Montpellier,22, DMC,26(9),2461,-,6,4,-,0.3,81.3,0.4,1,6.67
+146,Nicolas Pallois,Nantes,36, D(C),26,2217,1,-,2,1,0.3,83.8,1.3,1,6.67
+147,Dimitri Payet,Marseille,37," M(CLR),FW",9(15),828,4,3,-,-,1.2,80.3,0.2,2,6.67
+148,Bafodé Diakité,Lille,23, D(CR),29(4),2656,3,-,6,-,0.6,89.8,1.2,1,6.66
+149,Lilian Brassier,Brest,24, D(CL),35(1),3094,-,-,5,-,0.6,78.2,1.7,-,6.66
+150,Anthony Rouault,Toulouse,22, D(C),37,3316,2,-,2,1,0.5,87.5,2.4,2,6.65
+151,Maximiliano Caufriez,Clermont Foot,27, D(CR),25(1),2224,1,-,8,1,0.5,88.7,0.8,1,6.65
+152,Maxime Le Marchand,Strasbourg,34, D(CL),23(3),2018,-,-,4,1,0.3,79.9,2.3,-,6.65
+153,Grejohn Kyei,Clermont Foot,28, FW,26(11),2244,10,3,3,-,1.6,72.4,1.3,5,6.65
+154,Thijs Dallinga,Toulouse,23, FW,28(8),2363,12,1,4,-,1.7,65,1.6,1,6.65
+155,Ruslan Malinovskyi,Marseille,31," M(CLR),FW",13(7),1232,1,1,4,-,1.8,79.8,0.8,-,6.65
+156,Ismaël Doukouré,Strasbourg,20," D(C),DMC",25(3),2301,1,1,5,-,0.3,83.2,1.1,-,6.65
+157,Mostafa Mohamed,Nantes,26, FW,18(18),1936,8,2,1,-,1.6,62.6,2.1,1,6.64
+158,Julien Laporte,Lorient,30, D(C),19(1),1656,-,-,1,-,0.3,85.4,1.6,-,6.64
+159,Eliesse Ben Seghir,Monaco,19, FW,13(6),1060,4,1,1,-,1.1,79.6,0.5,1,6.64
+160,Vincent Le Goff,Lorient,34," D(CL),M(L)",37,3330,-,-,1,-,0.5,83.9,0.8,-,6.63
+161,Mahdi Camara,Brest,25," D(CR),M(C)",20(11),1825,2,-,4,1,0.8,84.2,0.6,-,6.63
+162,Mattéo Guendouzi,Marseille,25, M(C),25(8),2113,2,4,3,-,0.8,87.9,0.7,-,6.63
+163,Hamza Sakhi,Auxerre,27, AM(C),18(9),1660,1,2,1,-,1.1,86.4,0.2,2,6.63
+164,Lucas Chevalier,Lille,22, GK,32,2880,-,-,1,-,-,74.2,0.1,-,6.63
+165,Flavien Tait,Rennes,31, M(CLR),19(11),1685,2,2,2,-,0.8,86.5,0.2,1,6.62
+166,Arnaud Kalimuendo,Rennes,22, FW,24(6),1862,7,3,-,-,1.4,84.4,0.4,1,6.62
+167,Xavier Chavalerin,Troyes,33," DMC,M(L)",25(9),2422,4,2,3,-,0.8,83.7,0.5,-,6.62
+168,Matz Sels,Strasbourg,32, GK,38,3420,-,-,2,-,-,60.1,0.2,2,6.61
+169,Wahbi Khazri,Montpellier,33," M(CLR),FW",20(7),1644,4,1,5,1,1.4,74.8,0.7,-,6.61
+170,Isaak Touré,Auxerre,21, D(C),18(1),1591,1,-,3,1,0.4,87.5,1.3,1,6.61
+171,Jens Cajuste,Reims,24, DMC,14(17),1529,3,1,7,1,0.9,82.8,0.4,-,6.61
+172,Thiago Mendes,Lyon,32," D(CR),M(CR)",22(9),2065,1,1,3,-,0.5,87,1.1,-,6.61
+173,Saël Kumbedi,Lyon,19," D(R),M(R)",14(6),1317,-,2,8,-,0.5,83.6,0.4,-,6.61
+174,Mateusz Wieteska,Clermont Foot,27, D(C),35,3120,-,1,7,1,0.5,82.8,2.2,1,6.61
+175,Thomas Foket,Reims,29," D(CLR),M(R)",23(1),1983,-,1,-,-,0.1,82.9,0.5,-,6.61
+176,Juan Bernat,PSG,31," D(L),M(CL)",18(10),1648,1,4,1,-,0.3,93.3,0.2,-,6.61
+177,Gauthier Gallon,Troyes,31, GK,30,2668,-,-,3,1,-,61.1,0.5,1,6.60
+178,Thibault De Smet,Reims,25," D(L),M(L)",20(2),1762,-,1,2,-,-,79,1.4,-,6.60
+179,Kevin Gameiro,Strasbourg,36," AM(C),FW",23(11),2103,10,-,-,1,1.4,80.4,0.4,1,6.60
+180,Yvon Mvogo,Lorient,29, GK,21,1813,-,-,-,-,-,71.5,0.2,-,6.59
+181,Jackson Porozo,Troyes,23, D(C),17(5),1616,2,-,3,-,1,81.6,2.1,1,6.59
+182,Habib Diarra,Strasbourg,20, AM(CLR),18(11),1628,3,2,4,-,0.8,80.6,0.4,1,6.59
+183,Birama Touré,Auxerre,31, DMC,38,3405,2,-,3,-,0.7,81.1,1.5,-,6.59
+184,Lucas Perrin,Strasbourg,25, D(C),18(8),1763,-,1,4,-,0.3,82.2,1.4,-,6.59
+185,Hugo Ekitike,PSG,21, FW,12(13),1155,3,4,-,-,1.4,82.6,0.3,-,6.59
+186,José Fonte,Lille,40, D(C),30(1),2593,1,-,7,-,0.5,90.3,2,1,6.58
+187,Yan Valery,Angers,25," D(CR),M(R)",30,2504,-,-,3,-,0.4,78.2,1.2,-,6.57
+188,Elbasan Rashani,Clermont Foot,30, AM(CLR),26(6),2173,3,3,3,-,1.1,80.3,0.5,1,6.57
+189,Issa Kaboré,Marseille,22," D(R),M(R)",9(13),1022,1,-,1,-,0.4,81.6,0.1,-,6.57
+190,Ignatius Ganago,Nantes,25," AM(LR),FW",16(12),1520,5,3,-,-,1.2,64.8,2.2,-,6.56
+191,Mounaïm El Idrissy,AC Ajaccio,25, FW,30(2),2509,6,-,10,-,1.6,69,3.7,2,6.56
+192,Alexis Claude-Maurice,Lens,25, AM(CL),5(15),597,5,3,-,-,0.7,86.2,0.2,1,6.56
+193,Mathias Autret,Auxerre,33, M(CLR),16(7),1302,2,2,-,-,1,81.1,0.2,-,6.56
+194,Muhammed Cham,Clermont Foot,23," AM(C),FW",23(15),1976,7,4,2,-,1.4,83.1,0.2,1,6.55
+195,Jordan Ferri,Montpellier,32, M(C),32(2),2749,1,2,5,1,0.4,86.5,0.5,1,6.55
+196,Renaud Ripart,Troyes,31," D(R),M(CLR),FW",15(11),1319,4,1,4,-,1.5,70,2.2,-,6.55
+197,Moses Simon,Nantes,28," M(CLR),FW",28(6),2359,5,4,3,-,1,73.9,0.3,1,6.55
+198,Maxime Gonalons,Clermont Foot,35," D(C),M(C)",19(6),1457,1,-,3,-,0.2,88.6,0.6,1,6.55
+199,Jean-Kévin Duverne,Brest,26, D(CLR),27(7),2514,-,-,2,-,0.1,73.9,1,-,6.54
+200,Ross Barkley,Nice,30, M(CLR),9(18),923,4,2,1,-,1.4,83.6,0.1,-,6.54
+201,Stephy Mavididi,Montpellier,25," AM(LR),FW",14(12),1285,4,2,1,1,1.4,75.3,0.4,-,6.54
+202,David Pereira da Costa,Lens,23, AM(CL),16(15),1410,1,3,2,-,0.8,86,0.1,-,6.53
+203,Maxime Esteve,Montpellier,21, D(C),18(5),1645,-,-,3,-,0.3,81.7,1.3,2,6.53
+204,Timothy Weah,Lille,24," D(LR),M(LR),FW",18(11),1748,-,2,2,-,1,85.1,0.4,-,6.53
+205,Mohamed Youssouf,AC Ajaccio,36, D(R),27(3),2457,-,-,5,1,0.2,73.5,1.6,1,6.53
+206,Noah Fadiga,Brest,24," D(R),M(R)",16(5),1312,1,-,2,-,0.5,79.9,0.4,1,6.52
+207,Falaye Sacko,Montpellier,29," D(CLR),M(R)",29(6),2580,1,3,3,-,0.2,81.5,0.5,-,6.52
+208,Dimitri Liénard,Strasbourg,36," D(L),M(CL)",18(10),1546,-,-,4,-,0.5,78.5,0.7,-,6.52
+209,Florent Mollet,Nantes,32, AM(CLR),11(8),1090,1,2,3,-,1.2,87.3,0.5,-,6.52
+210,Pedro Chirivella,Nantes,26, DMC,25(1),2042,-,1,1,-,0.6,86.6,0.3,-,6.52
+211,Akim Zedadka,Auxerre,28," D(R),M(R)",19(1),1603,-,-,5,-,0.5,78.9,1.2,-,6.51
+212,Rayan Raveloson,Auxerre,27," D(CR),DMC",27(7),2427,2,1,-,-,0.9,83.4,0.9,1,6.51
+213,Kamory Doumbia,Reims,21, AM(C),13(13),1158,2,2,-,-,1,81.9,0.3,-,6.50
+214,Haris Belkebla,Brest,30, DMC,30(8),2658,2,-,3,-,0.3,85.5,0.5,-,6.50
+215,Evann Guessand,Nantes,22," AM(R),FW",15(15),1257,3,2,2,-,0.7,71,0.9,1,6.50
+216,Brecht Dejaegere,Toulouse,32, AM(CL),25(5),1827,4,1,5,-,0.8,81,0.3,-,6.50
+217,Jean Onana,Lens,24, DMC,9(12),807,-,-,3,-,0.4,87,0.4,-,6.50
+218,Yohann Magnin,Clermont Foot,26, M(C),25(13),2393,-,-,6,-,0.4,84.9,0.7,-,6.49
+219,Johann Lepenant,Lyon,21, DMC,21(10),1935,1,2,4,-,0.6,89.9,0.5,-,6.49
+220,Mickaël Barreto,AC Ajaccio,33, M(C),15(5),1328,1,1,1,-,1,74.6,0.5,-,6.49
+221,Vincent Marchetti,AC Ajaccio,26, M(C),29(2),2463,-,2,7,-,1.2,80,0.2,-,6.49
+222,Lesley Ugochukwu,Rennes,20, DMC,14(12),1330,-,1,3,1,0.2,87.6,0.6,-,6.48
+223,Théo Le Bris,Lorient,21, M(L),15(12),1451,2,2,-,-,0.4,81.8,0.4,-,6.48
+224,Sanjin Prcic,Strasbourg,30, M(C),17(12),1633,1,1,3,1,1,86.1,0.6,-,6.48
+225,Massadio Haïdara,Lens,31," D(CL),M(L)",17(19),1657,-,1,5,-,0.4,87.1,1.1,-,6.47
+226,Gaetan Perrin,Auxerre,27, AM(CL),15(22),1388,3,1,1,-,0.7,75.7,0.4,1,6.47
+227,Abdu Conté,Troyes,26," D(CL),M(L)",15(4),1317,1,2,1,-,0.2,79.8,0.8,-,6.46
+228,Ibrahima Koné,Lorient,24, FW,15(22),1569,7,1,3,-,0.8,66.9,1.5,-,6.46
+229,Carlos Soler,PSG,27, M(CLR),14(12),1188,3,2,-,-,0.4,87.4,-,1,6.46
+230,Hugo Magnetti,Brest,25, DMC,19(13),1688,1,2,2,-,0.5,84.8,0.2,-,6.46
+231,Stéphane Diarra,Lorient,25, AM(R),14(14),1070,2,-,1,-,0.7,75.2,0.2,1,6.46
+232,Mathias Pereira Lage,Brest,27, M(CLR),16(8),1272,2,1,2,-,0.9,71.3,0.9,-,6.45
+233,Jim Allevinah,Clermont Foot,29, M(CLR),25(11),2248,1,1,2,-,0.8,82.4,0.3,-,6.45
+234,Wesley Saïd,Lens,29," AM(CLR),FW",6(15),638,5,-,2,-,1.3,81.7,0.2,-,6.45
+235,Léo Leroy,Montpellier,24, DMC,14(13),1189,-,-,7,-,0.7,76.2,0.9,-,6.45
+236,Yasser Larouci,Troyes,23," D(L),M(L)",21(9),1800,1,1,1,-,0.3,77,0.7,-,6.45
+237,Colin Dagba,Strasbourg,25," D(R),M(R)",12(9),960,-,-,3,-,0.2,85,0.1,-,6.44
+238,Gerzino Nyamsi,Strasbourg,27, D(C),19(1),1580,1,1,4,1,0.7,84.5,1.9,1,6.44
+239,Renato Sanches,PSG,26, M(CR),6(17),705,2,-,1,-,0.6,91.6,0.2,-,6.43
+240,Jean-Eudes Aholou,Strasbourg,30, DMC,16(14),1301,3,1,4,1,0.7,76.1,0.9,1,6.43
+241,Yoann Salmier,Troyes,31, D(CR),31(1),2652,1,-,5,1,0.4,83,1.7,-,6.43
+242,Wilson Odobert,Troyes,19," AM(CLR),FW",19(13),1767,4,2,-,-,0.8,79.8,0.2,-,6.43
+243,Dion Lopy,Reims,22, DMC,16(13),1377,-,1,4,2,0.6,85.5,0.6,-,6.43
+244,Miha Blazic,Angers,30, D(C),22(2),1980,2,-,4,-,0.3,87.6,1.9,-,6.42
+245,Samuel Moutoussamy,Nantes,27, M(CL),27(8),2403,-,2,8,-,0.6,86.5,0.6,-,6.42
+246,Adil Rami,Troyes,38, D(C),18(2),1600,-,1,2,-,0.5,85.1,1.5,-,6.41
+247,Ibrahima Sissoko,Strasbourg,26," D(C),DMC",13(13),1306,-,2,1,-,0.5,77.5,1.2,-,6.41
+248,Paul Bernardoni,Angers,27, GK,27,2430,-,-,-,-,-,58.3,0.3,1,6.40
+249,Julian Jeanvier,Auxerre,32, D(C),20(2),1763,1,-,3,1,0.4,83.1,1.1,-,6.40
+250,Lassine Sinayoko,Auxerre,24," AM(R),FW",16(17),1569,1,2,-,1,1.3,77.4,0.7,-,6.40
+251,Pablo Rosario,Nice,27," D(CR),DMC",17(14),1760,-,1,6,-,0.3,89.4,0.5,-,6.40
+252,Julien Ponceau,Lorient,23, AM(C),20(11),1663,1,4,1,-,0.5,83.7,0.3,-,6.39
+253,Souleyman Doumbia,Angers,27," D(L),M(L)",21(3),1793,-,-,2,1,0.3,80.5,0.8,-,6.39
+254,Cyrille Bayala,AC Ajaccio,27, AM(R),25(8),2017,1,1,3,1,0.7,64.7,1.2,-,6.39
+255,Arbër Zeneli,Reims,29," AM(LR),FW",12(11),1003,-,2,-,-,1.3,76.3,0.2,1,6.39
+256,Billal Brahimi,Nice,24," AM(L),FW",5(21),786,3,2,-,-,0.8,83.2,0.1,1,6.39
+257,Oumar Gonzalez,AC Ajaccio,26, D(C),29(1),2579,-,-,10,-,0.4,81.8,2.1,-,6.39
+258,Moussa Sissoko,Nantes,34, M(CR),22(8),1923,2,-,3,-,0.6,81,0.8,1,6.38
+259,Thierno Baldé,Troyes,21," D(R),M(R)",25(6),2161,-,1,1,-,0.2,83.1,0.3,-,6.38
+260,Yoann Cathline,Lorient,21, M(L),11(12),1085,1,1,-,-,1.1,72.9,0.1,-,6.38
+261,Abdallah Sima,Angers,22," AM(LR),FW",19(15),1833,5,1,-,-,1.1,76.1,1.3,-,6.38
+262,Birger Meling,Rennes,29," D(LR),DMC",10(17),1200,-,1,3,1,-,86.2,0.5,-,6.37
+263,Adrien Hunou,Angers,30," AM(CLR),FW",28(6),2248,4,1,2,-,1.3,78,0.6,-,6.37
+264,Cédric Hountondji,Angers,30, D(C),35(1),3097,-,-,7,-,0.3,86.8,1.8,-,6.37
+265,Pierrick Capelle,Angers,37," D(L),M(CLR)",15(11),1424,-,3,8,-,0.6,86.6,0.5,-,6.36
+266,Ismaël Diallo,AC Ajaccio,27, D(L),25(3),2183,-,-,9,1,0.1,76,0.9,-,6.36
+267,Batista Mendy,Angers,24," D(C),DMC",35,2871,-,-,6,1,0.4,86.7,0.8,-,6.35
+268,Amine Salama,Angers,23, FW,12(13),1245,3,1,1,-,1,75.9,0.3,-,6.35
+269,Mitchell van Bergen,Reims,24," AM(LR),FW",6(22),889,-,1,1,-,0.9,78.7,0.2,-,6.35
+270,Mickaël Alphonse,AC Ajaccio,34, D(LR),14(12),1357,-,-,2,1,0.4,71.1,1.2,1,6.35
+271,Moussa Diarra,Toulouse,23, D(CL),12(11),1222,-,1,-,-,-,83.9,0.7,-,6.35
+272,Denis Genreau,Toulouse,24, AM(C),7(13),654,-,1,3,-,0.4,78.2,0.3,-,6.35
+273,Komnen Andric,Clermont Foot,28, FW,16(18),1442,4,3,4,-,0.9,75.3,1.3,-,6.34
+274,Ruben Aguilar,Monaco,31," D(R),M(R)",14(6),1176,-,-,3,-,0.2,84.4,0.6,-,6.34
+275,Maxime Busi,Reims,24," D(R),M(R)",11(10),1041,-,1,4,-,0.1,75.3,0.7,1,6.34
+276,Khalil Fayad,Montpellier,19, M(CL),7(17),707,-,2,1,1,0.3,84.8,0.1,-,6.34
+277,Bonke Innocent,Lorient,28, DMC,14(11),1183,-,1,5,-,0.2,89.2,0.4,-,6.34
+278,Erik Palmer-Brown,Troyes,27, D(C),36(2),3194,-,-,5,-,0.3,84.7,1.5,-,6.34
+279,Florent Ogier,Clermont Foot,35, D(C),18(8),1695,-,1,4,-,0.1,79.4,1.1,-,6.33
+280,Gauthier Hein,Auxerre,27, AM(CR),23(12),1886,2,-,1,-,1.1,84.4,0.1,-,6.33
+281,Thomas Mangani,AC Ajaccio,37, M(C),14(12),1329,1,1,4,1,0.4,73.7,0.8,-,6.32
+282,Moussa Dembélé,Lyon,27, FW,8(15),866,3,-,1,-,1.2,72.9,1.3,-,6.32
+283,Benoît Costil,Auxerre,36, GK,19,1710,-,-,-,-,-,66.5,0.1,-,6.32
+284,Enzo Tchato,Montpellier,21, D(R),11(10),1094,1,1,1,-,0.2,76.4,0.8,-,6.32
+285,Marcus Coco,Nantes,27," D(R),M(LR),FW",6(20),629,1,-,2,-,0.3,75,0.7,-,6.32
+286,Romain Hamouma,AC Ajaccio,37," M(CLR),FW",14(5),1091,2,2,1,2,0.8,81.7,0.7,-,6.31
+287,M'Baye Niang,Auxerre,29," AM(LR),FW",17(13),1486,6,-,2,2,1.3,64,2.3,-,6.31
+288,Warren Zaïre-Emery,PSG,18," DMC,M(R)",8(18),919,2,-,1,-,0.3,92,0.1,-,6.31
+289,Clément Vidal,AC Ajaccio,23, D(C),21(5),1901,1,-,5,1,0.5,77.4,2,1,6.29
+290,Youssouf M'Changama,Auxerre,33, M(C),11(15),1079,-,-,1,-,0.7,82.5,0.5,-,6.29
+291,Mohamed Bayo,Lille,25, FW,6(21),640,4,1,1,-,0.8,63.8,0.5,-,6.29
+292,Eliot Matazo,Monaco,22, DMC,13(10),1176,1,-,2,-,0.2,81.8,0.4,-,6.29
+293,Jérémie Bela,Clermont Foot,31, M(LR),7(12),737,1,1,-,-,0.6,72.2,0.1,-,6.28
+294,Ismail Jakobs,Monaco,24," D(L),M(L)",9(23),1102,-,2,3,-,0.4,69.1,1.6,-,6.27
+295,Carlos Baleba,Lille,20, DMC,5(14),472,-,-,3,1,0.6,83.6,0.4,-,6.27
+296,Sada Thioub,Angers,28," D(R),M(LR)",11(16),1056,1,2,3,-,0.3,82.5,0.2,-,6.26
+297,Andreas Bruus,Troyes,25," D(R),M(R)",18(9),1626,-,2,2,-,0.4,72.3,0.1,-,6.26
+298,Kevin Spadanuda,AC Ajaccio,27, M(L),13(9),1069,-,1,3,-,0.3,81.5,0.2,-,6.26
+299,Sébastien Corchia,Nantes,33," D(R),M(R)",6(16),775,-,1,3,-,0.2,76.9,0.5,-,6.26
+300,Benjamin Leroy,AC Ajaccio,35, GK,32,2799,-,-,1,-,-,57.6,0.1,1,6.26
+301,Mathieu Coutadeur,AC Ajaccio,38, M(C),22(5),1951,-,-,2,-,0.1,84.6,0.3,-,6.24
+302,Riad Nouri,AC Ajaccio,38, M(LR),16(17),1692,1,1,3,-,0.5,74,0.4,-,6.24
+303,Valère Germain,Montpellier,34," AM(CLR),FW",5(26),673,2,-,1,1,0.6,69.4,1,-,6.23
+304,Matthis Abline,Auxerre,21, FW,8(11),803,2,1,1,-,1.4,69.4,0.6,-,6.23
+305,Lebo Mothiba,Strasbourg,28, FW,3(16),428,3,-,-,-,0.5,79.6,0.5,-,6.22
+306,Ado Onaiwu,Toulouse,28, FW,9(25),1073,2,1,-,-,0.6,76.2,1.1,-,6.22
+307,Abdoulaye Bamba,Angers,34," D(CLR),M(R)",12(9),1359,-,-,2,-,-,88.9,0.8,-,6.20
+308,Iké Ugbo,Troyes,25, FW,9(16),889,2,1,-,-,0.6,70.6,0.4,-,6.20
+309,Cédric Avinel,AC Ajaccio,37, D(C),19(5),1791,1,-,2,1,0.1,85,1.6,1,6.18
+310,Veljko Birmancevic,Toulouse,26, AM(L),2(23),427,-,-,-,-,0.5,69.8,0.1,-,6.11

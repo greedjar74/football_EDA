@@ -1,0 +1,330 @@
+﻿,Name,AvgP,PSp,Crosses,LonB,ThrB
+0,Karim Benzema,38.1,85.2,0.1,1,0.1
+1,Vinícius Júnior,35.1,85.9,0.3,1.2,0.1
+2,Ousmane Dembélé,31.7,84.4,1.4,1.1,0.3
+3,Nabil Fekir,38.8,86.4,1.8,1.3,0.2
+4,Casemiro,61.3,86,0.1,5.5,0.2
+5,Joselu,28.4,61.1,0.1,0.6,0.1
+6,Iker Muniain,39.2,84.8,1.5,1.5,0.1
+7,Iago Aspas,33.4,75.5,0.4,1.3,0.1
+8,Dani Parejo,60.3,87.6,1.6,4.2,0.2
+9,Mikel Merino,50.8,77.6,0.2,2.4,0.2
+10,Memphis Depay,28.9,82.1,1.3,0.6,-
+11,Yannick Carrasco,30.1,80.6,1.2,0.7,0.1
+12,Sergio Busquets,76.9,87.6,0.1,5.6,0.1
+13,Raúl de Tomás,21.2,83.9,0.1,1.8,-
+14,Luka Modric,58.5,90.1,0.4,3.8,0.2
+15,Javi Galán,43.9,81.9,0.8,2,-
+16,Mathías Olivera,32.9,71.8,0.4,1,-
+17,Óscar Trejo,28.6,82.2,1.2,1.1,0.1
+18,Gonçalo Guedes,20.4,68.5,0.9,1,0.1
+19,Jordi Alba,79.7,86.6,0.8,3.3,0.2
+20,Toni Kroos,76.8,94.9,0.7,7.8,0.1
+21,Gabriel Paulista,33.5,77.7,-,3.7,-
+22,Éder Militão,58.6,89.3,-,3.8,0.1
+23,Ferland Mendy,53.9,92,0.2,1.2,-
+24,Étienne Capoue,43.8,88.4,-,1.9,0.1
+25,José Luís Morales,17.9,72.8,0.7,0.8,0.1
+26,Marcos Acuña,50,84.2,1.5,3.7,0.1
+27,Marc Bartra,48.7,82.4,-,3.6,-
+28,Iñigo Martínez,44.2,79.2,0.1,4.5,-
+29,Juan Foyth,38.9,84.3,-,1.5,-
+30,David García,41.7,80,-,3.5,-
+31,Enes Ünal,17.1,61.5,0.1,0.2,-
+32,Sergio Canales,52.6,85,0.4,3.1,0.3
+33,Pablo Maffeo,26.2,70.4,0.8,0.9,-
+34,Mauro Arambarri,36.9,77.6,1.4,4,-
+35,Juanmi,14.5,78.1,-,0.5,-
+36,Gerard Piqué,62.1,90,-,4.4,-
+37,Carlos Soler,25.8,74.4,1.3,1.7,0.1
+38,Guido Rodríguez,45.3,85.5,-,3.1,-
+39,Lucas Torró,38.5,77.8,-,1.5,-
+40,Álex Moreno,34.9,76.2,0.4,1,-
+41,Jules Koundé,65.6,88.9,0.2,3.9,-
+42,Arnaut Danjuma,15.1,77,0.3,0.3,-
+43,Frenkie de Jong,51.2,91.3,0.2,2.3,0.2
+44,João Félix,17.5,75,0.1,1,0.2
+45,Lucas Boyé,17.3,73.4,-,0.5,-
+46,Mikel Oyarzabal,23.2,74.8,1.2,0.6,-
+47,David Silva,40.6,88.1,0.6,1.1,0.1
+48,Marco Asensio,25.9,87.7,0.4,0.9,-
+49,Germán Pezzella,44.5,87.4,-,1,-
+50,Héctor Bellerín,35.7,77.8,0.5,1.1,-
+51,Alfonso Pedraza,26.1,77.2,0.6,0.7,-
+52,Robin Le Normand,58.2,88,-,3.4,-
+53,Érik Lamela,23.4,86.3,0.2,0.6,0.2
+54,Pau Torres,60,85.8,-,4.2,-
+55,Santi Comesaña,41.8,82.7,0.1,2.5,0.1
+56,Dani Carvajal,42,87.4,0.4,1.8,-
+57,Sergi Darder,45.8,85.4,0.4,3.8,0.1
+58,Ronald Araujo,53.6,90.2,0.1,2.8,-
+59,Luis Milla,38.9,83.6,1.2,2.7,0.1
+60,Brais Méndez,39.5,80.3,0.2,2,0.1
+61,Ivan Rakitic,44.5,85.9,0.8,3.3,-
+62,José Giménez,38.5,88.6,-,3.1,-
+63,Eduardo Camavinga,32.4,90,-,2,0.1
+64,Yeray Álvarez,46,82,-,3.6,-
+65,Alfonso Espino,34.4,64.4,0.8,2.2,0.1
+66,Santi Mina,19.2,66.7,-,0.8,0.1
+67,Geoffrey Kondogbia,35.5,86,-,2.6,-
+68,Álvaro García,22.9,70.2,1.2,0.8,-
+69,Thomas Lemar,28.3,85.3,1,1.2,-
+70,Rodrigo De Paul,35.8,81.9,0.9,2.8,0.3
+71,Conan Ledesma,27.2,47.4,-,7.7,-
+72,Dani Vivian,39.3,83.4,-,3.8,-
+73,Antoine Griezmann,25.3,80.7,0.2,0.7,0.1
+74,Stefan Savic,49.1,82.3,-,3.8,-
+75,William Carvalho,39.8,88,-,2.3,0.1
+76,Alejandro Catena,47.6,81.3,-,6.1,-
+77,Thibaut Courtois,26.3,79.2,-,3.1,-
+78,Omar Alderete,32.8,60.8,-,4.1,-
+79,Gavi,35.2,89.3,0.2,1,0.2
+80,Samuel Chukwueze,16.3,75.2,0.1,0.4,0.1
+81,Nacho Vidal,31.1,71,0.3,2.1,-
+82,Denis Suárez,50.2,83.6,0.8,2.4,0.2
+83,Diego López,26.4,68.6,-,5.3,-
+84,Alex Berenguer,21.1,71.5,0.9,0.5,0.1
+85,Edgar Badia,30.1,63.9,-,8.5,-
+86,Aritz Elustondo,37.9,83.8,-,2.3,-
+87,Lucas Ocampos,24.1,82.3,0.5,1,-
+88,Óscar De Marcos,39.4,74.2,0.4,1.6,-
+89,Yassine Bounou,30.8,74,-,6,-
+90,Sergiño Dest,38.9,92.4,0.3,0.7,-
+91,Federico Valverde,37,89.7,-,1.5,0.1
+92,Ante Budimir,12.3,58,0.1,0.1,-
+93,Martín Zubimendi,40.3,85.7,-,2.1,-
+94,José Campaña,40.9,85.9,0.5,2,0.1
+95,David Alaba,62.9,92.6,0.2,1.8,0.1
+96,Diego Carlos,64.1,87.6,-,5.6,0.1
+97,Edgar González,43,88,-,1.9,-
+98,Diego Rico,40.9,75.6,0.7,0.9,-
+99,Leandro Cabrera,49.4,76.6,-,4.4,0.1
+100,Álvaro Negredo,15.4,60,0.1,1,-
+101,Darwin Machís,14.1,71.4,0.6,0.7,-
+102,Luís Maximiano,29.3,48.1,-,7.3,-
+103,Dani Rodríguez,24.6,78.6,0.3,0.8,0.1
+104,Lucas Vázquez,46.3,89.3,0.6,1.7,-
+105,Papu Gómez,30.9,89,0.7,1.9,-
+106,Alexander Isak,13,74.3,0.1,0.2,0.1
+107,Carlos Akapo,25.8,75.2,0.6,0.8,-
+108,Stole Dimitrievski,25.5,50.3,-,6.3,-
+109,Jorge Cuenca,33.6,68,-,2.7,-
+110,Manu Trigueros,34,80.3,0.1,1.4,0.3
+111,Iñaki Williams,16,67.7,0.2,0.4,0.1
+112,Sergio Herrera,30,54.8,-,11.4,-
+113,Gerónimo Rulli,35.2,79.2,-,5.1,-
+114,Jorge Molina,14.5,64.1,0.1,0.2,0.1
+115,Franco Cervi,19.8,80.1,0.4,0.6,-
+116,Mamadou Loum,25.9,72.9,-,1.6,-
+117,Rubén García,28,77.9,1.8,1.4,-
+118,Álex Remiro,32.3,73.1,-,7.8,-
+119,Jorge de Frutos,16.4,70.5,0.7,0.7,-
+120,Adri Embarba,18,75.5,1,0.8,-
+121,Thomas Delaney,30.3,78.3,-,2,-
+122,Damián Suárez,29.7,71,1.1,2.2,-
+123,Fernando,51.8,89.2,-,4.3,-
+124,Johan Mojica,41.9,77.4,1.3,2.6,-
+125,Helibelton Palacios,28,78.7,0.2,0.9,-
+126,Adrià Pedrosa,30.1,77.8,0.5,1.4,-
+127,Luis Suárez,16.7,67.3,0.2,0.5,-
+128,Rui Silva,28.6,66.9,-,5.9,-
+129,Oihan Sancet,16.1,78.2,0.1,0.5,0.2
+130,Íñigo Ruíz de Galarreta,33.7,82.6,0.1,1.9,-
+131,Marcos Llorente,37.6,84.8,0.4,1.3,-
+132,Ángel Correa,16.6,76.5,0.1,0.3,-
+133,Raúl Albiol,55.5,86,-,4.7,-
+134,Nemanja Maksimovic,23.8,77.7,0.1,0.9,-
+135,Isi Palazón,23.9,74.3,0.5,1.5,0.1
+136,Fidel,29.5,78.7,0.8,1.2,0.1
+137,Koke,55.6,86.5,0.2,2.3,0.1
+138,Andoni Gorosabel,35.6,84.9,0.5,1,-
+139,Rodrygo,19,86.1,0.2,0.2,-
+140,Óscar Valentín,37.5,83.8,-,2.6,-
+141,Thierry Correia,25.2,70.7,0.2,1.8,0.1
+142,Rubén Duarte,27.1,67.7,0.8,1.7,-
+143,Nacho,35.4,93,0.1,1.1,-
+144,Fran García,35.9,80.1,0.9,1.7,-
+145,Francis Coquelin,23.7,86,-,0.6,-
+146,Jesús Navas,44.2,81,1.2,3.4,-
+147,Alberto Moreno,22.2,85.6,0.6,0.5,-
+148,David Soria,28.4,51,-,10.4,-
+149,Yangel Herrera,37.2,81.7,0.1,1,-
+150,Matías Dituro,34.9,60.2,-,9.5,-
+151,Yeremy Pino,16.5,78.9,0.1,0.3,-
+152,José Gayà,25.9,75.7,1,1.9,-
+153,Pedro Bigas,48.7,86.9,0.1,2.8,0.1
+154,Iddrisu Baba,29.7,79.8,-,2,-
+155,Eric García,64.3,93.2,-,3.3,-
+156,Iván Alejo,11.3,72,1.3,0.3,-
+157,Joan Jordán,49.9,88.5,0.2,4.3,-
+158,Boulaye Dia,10,75.3,-,0.1,-
+159,Óscar Duarte,42,83.6,-,4.3,-
+160,Hugo Mallo,45.4,76.8,0.5,1.4,-
+161,Óscar Gil,25.3,85.3,0.4,0.9,-
+162,Jens Jønsson,15,76.1,0.1,0.3,-
+163,Jon Moncayola,35.8,82.1,0.9,2.9,-
+164,Fran Beltrán,50.6,91.2,0.2,3.6,-
+165,Pepelu,41.7,81.1,0.8,2.6,-
+166,Maxime Gonalons,26,84.5,-,1.8,-
+167,Djené Dakonam,37.7,77.5,0.1,3,-
+168,Jaume Costa,29.3,75.4,0.7,1,-
+169,Unai Simón,21.9,66.6,-,5.1,-
+170,Maxi Gómez,13.3,64.8,0.1,0.3,-
+171,Antonio Puertas,18.6,72.5,0.2,0.6,-
+172,Anthony Lozano,8.2,67.1,0.1,0.2,-
+173,Íñigo Lekue,35,72.5,0.7,2.3,-
+174,Willian José,16.6,78.3,0.1,0.7,-
+175,Daniel Wass,34.1,81.2,0.3,2.4,0.1
+176,Joseph Aidoo,48.2,81.2,-,3.5,-
+177,Youssef En-Nesyri,7.9,66.5,-,0.3,-
+178,Adnan Januzaj,17.8,75.6,1.1,1.1,-
+179,Iza Carcelén,22.4,78,0.2,1.5,-
+180,Alexander Sørloth,13.5,73.6,-,0.2,-
+181,Omar Mascarell,38.3,85.4,-,2.7,-
+182,Luis Rioja,19.9,69.6,0.8,0.8,0.1
+183,Iván Balliu,35.8,76.3,1,2.1,-
+184,Raúl García,16.6,62,0.1,0.5,0.1
+185,Mikel Balenziaga,29.3,77.6,0.3,1.3,-
+186,Manu Sánchez,26,74.7,0.7,0.8,-
+187,Borja Iglesias,10.1,71.1,-,0.3,0.1
+188,Rafa Mir,10.1,67.6,0.1,0.1,-
+189,Luis Suárez,14,73.7,-,0.6,0.1
+190,Luuk de Jong,8.7,72,-,-,-
+191,Takefusa Kubo,15.8,74.9,0.5,0.4,0.1
+192,Enis Bardhi,21.3,76.9,0.7,1.2,0.1
+193,Álex Fernández,30.1,81.8,0.4,2,-
+194,Javi Puado,20.3,83.7,0.1,0.4,0.1
+195,Fali,23.7,76.7,0.1,2,0.1
+196,Mario Hermoso,43.9,87,0.2,3.7,-
+197,Sèrge Aurier,33.1,85.9,0.4,1.1,-
+198,Esteban Saveljich,28.5,82.5,-,1.6,-
+199,Sime Vrsaljko,21.7,77.2,0.2,1,-
+200,Roger Martí,15.4,69.6,-,0.4,-
+201,Matheus Cunha,7.1,71,0.1,0.1,0.1
+202,Nico González,24.9,90,0.1,0.4,0.1
+203,Felipe,29.7,81.8,-,1.5,-
+204,Salva Sevilla,33.8,84.2,0.5,2.5,0.1
+205,Sergi Gómez,44.1,84.8,-,2.7,-
+206,Pervis Estupiñán,29.5,81.5,0.5,0.8,-
+207,Pere Milla,14.8,72.4,0.1,0.4,0.1
+208,Nemanja Gudelj,32,89.3,-,1,-
+209,Néstor Araújo,45.4,85.6,-,2.6,-
+210,Marc-André ter Stegen,32.3,85.9,-,6.3,-
+211,Sergio Escudero,20.8,71.5,0.3,1.5,-
+212,Gonzalo Melero,26.5,85,-,0.8,-
+213,Florian Lejeune,38.7,78,-,5.4,-
+214,Domingos Duarte,34.8,77.3,-,3.4,-
+215,Rubén Sobrino,14.4,73.6,0.1,0.4,-
+216,Víctor Laguardia,36.4,75.2,-,4.9,-
+217,Josan,12.3,78.7,0.5,0.4,-
+218,Fernando Pacheco,27.8,59.7,-,10.6,-
+219,Jorge Miramón,27,74.7,0.5,1.8,0.1
+220,Héctor Herrera,31.1,84.8,0.1,1.5,-
+221,Quini,21,69.6,0.3,1.3,-
+222,Hugo Duro,12.4,71.8,-,0.2,-
+223,Martin Valjent,37.9,81.2,-,3.5,-
+224,Óscar Mingueza,34.4,89.3,0.5,1.3,0.1
+225,Sergi Guardiola,12,69,0.1,0.3,-
+226,Carlos Neva,24.3,72.2,0.8,0.9,-
+227,Unai Vencedor,36.9,80.1,0.2,2.9,-
+228,Aihen Muñoz,29.7,78.6,0.4,1.3,-
+229,Enzo Roco,38.4,82.4,-,3.7,-
+230,Germán Sánchez,32.5,74.5,-,2.4,-
+231,Kike García,14.8,67.6,0.2,0.5,-
+232,Rodri,19.2,82.9,-,0.6,0.1
+233,Iborra,31.8,85.8,-,0.8,-
+234,Renan Lodi,16.9,81.6,0.3,0.4,-
+235,Tete Morente,15.5,74.4,0.5,0.5,0.1
+236,Manolo Reina,25,60.3,-,6.5,-
+237,Juan Cruz,38.2,82.9,-,1.7,-
+238,Dimitri Foulquier,25.2,67.7,0.3,1.3,-
+239,Gerard Gumbau,31,84.1,0.8,2.7,0.1
+240,Chimy Ávila,12.9,60,0.6,0.6,-
+241,Pathé Ciss,16.8,83.3,-,1.6,0.1
+242,Hugo Guillamón,35.5,80.5,-,3.6,-
+243,Óliver Torres,23.7,82.1,0.2,2.2,-
+244,Rúben Vezo,39,83.6,-,2.9,-
+245,Renato Tapia,29.3,80,-,2.2,-
+246,Manu García,21.9,78.7,0.7,2.3,-
+247,Stefan Mitrovic,28.2,78.6,-,2.6,-
+248,Carlos Clerc,35.9,77.4,0.4,1.2,0.1
+249,Radamel Falcao,7.6,77.8,0.1,0.1,-
+250,Tomás Alarcón,21.8,76.2,0.6,2.3,-
+251,Carles Aleñá,24.8,81.5,0.4,1.3,-
+252,Dani Cárdenas,26.5,64.4,-,5.3,-
+253,Brian Oliván,27,68.2,0.5,1.7,-
+254,Kike Barja,14.5,77.7,-,0.6,-
+255,Dani García,32.1,78.1,-,2.1,-
+256,Cote,26.3,78.7,0.6,3.1,-
+257,Manu Morlanes,23.9,86.4,0.1,1,-
+258,Victor Chust,31.8,84.3,-,2.8,-
+259,Mouctar Diakhaby,24.8,74.7,-,2.5,-
+260,Gonzalo Verdú,35.4,84.2,-,3.3,0.1
+261,Antonio Sánchez,22.4,79.3,-,1.4,-
+262,Martín Aguirregabiria,23.8,68.4,0.6,1.4,-
+263,Cristian Tello,14.9,78.1,0.2,0.5,-
+264,Igor Zubeldia,39.7,87.6,-,1.8,-
+265,Marcos André,6.1,68.2,-,0.2,0.1
+266,Keidi Bare,34.9,86.9,-,2.1,-
+267,Moi Gómez,19.2,82.8,0.4,0.7,0.1
+268,Lee Kang-In,16.7,77.8,0.4,0.7,0.1
+269,Thiago Galhardo,8.4,63.8,0.1,0.1,-
+270,Víctor Díaz,28,74.8,0.2,2.3,-
+271,Joseba Zaldúa,19.1,79.1,0.3,0.7,-
+272,Randy Nteka,11.6,67.3,-,0.1,-
+273,Ludwig Augustinsson,22.2,84.8,0.5,0.8,-
+274,Nemanja Radoja,23.9,84.1,0.1,1.1,-
+275,Yunus Musah,11.7,77.4,0.1,0.6,-
+276,Andrés Guardado,33.1,84.8,-,2.9,-
+277,Uros Racic,17.8,73.5,0.1,1.9,-
+278,Rober Pier,38.4,79.9,-,2.5,-
+279,Florentino,19.6,78.9,-,1,0.1
+280,Guido Carrillo,10.2,70.2,-,0.2,-
+281,Darko Brasanac,24.9,76.4,0.1,0.2,-
+282,Aleix Vidal,29.1,82.7,0.5,1.1,-
+283,Joaquín,11.1,85,0.5,0.2,-
+284,Son,31.6,73.2,0.3,2.8,-
+285,Fer Niño,9.2,67.9,-,-,-
+286,Ángel Rodríguez,8.7,73.3,0.1,0.3,-
+287,Óscar Melendo,20.3,91.1,-,0.6,0.1
+288,Mickaël Malsa,20.6,80.7,-,1.2,0.1
+289,Bebé,8.3,76.7,0.7,0.5,-
+290,Nico Williams,11.4,78.1,0.2,0.2,-
+291,Toni Moya,18.2,75,0.9,1.5,-
+292,Diego González,25.6,82.7,-,1.7,-
+293,Jan Oblak,24.7,51.9,-,5.4,-
+294,Franco Russo,33.7,76.4,-,3.2,-
+295,Hélder Costa,11.4,70.8,0.5,0.1,-
+296,Jeison Murillo,34.8,89.2,-,2.7,-
+297,Dani Gómez,6.7,80.9,-,0.1,-
+298,Rodrigo Battaglia,19.6,83.7,-,0.7,-
+299,Unai López,28.5,86.4,0.8,2.8,0.1
+300,Mikel Vesga,22,77.7,0.1,1.4,-
+301,Javi Martínez,13.9,77.8,0.2,0.3,-
+302,Raúl Guti,25.1,84.3,-,1.4,-
+303,Sandro Ramírez,11.8,79.2,0.1,0.4,-
+304,Roberto Torres,12.4,69.1,0.8,1,0.1
+305,Clément Lenglet,38.7,91,-,2.3,-
+306,Salvi Sánchez,12.1,67.7,0.5,0.3,-
+307,Ángel Montoro,25.7,77.6,0.5,2.2,-
+308,Édgar Méndez,11.7,62.5,0.4,0.6,-
+309,Iván Marcone,21.5,82.3,0.1,1.1,-
+310,Amath Ndiaye,10.1,81.2,0.1,0.3,-
+311,Portu,11.9,76.8,0.2,0.1,-
+312,Nolito,16.5,78,0.1,0.8,-
+313,Abdón Prats,6.2,67.5,-,0.2,-
+314,Nico Melamed,13.3,87.6,0.2,0.6,-
+315,Juan Iglesias,9.7,52.6,0.5,1.1,-
+316,Asier Villalibre,5.8,62.2,-,-,-
+317,Aitor Ruibal,15.5,79.7,0.1,0.3,-
+318,Tomás Pina,19.9,78.5,-,0.5,-
+319,Oier Zarraga,15.1,80,0.1,0.6,-
+320,Loren Morón,4,58.8,-,-,-
+321,Miguel de la Fuente,6.9,66.4,-,0.1,-
+322,Facundo Pellistri,6.4,77,-,-,-
+323,Pere Pons,13.3,73.1,0.1,0.4,-
+324,Oier Sanjurjo,11.9,72.2,0.1,0.7,-
+325,Augusto Solari,14.3,69.3,0.3,0.4,-
+326,Wu Lei,3.6,69.9,-,0.1,-
+327,Jaime Mata,8.4,68.4,-,0.1,-
+328,Alejandro Cantero,4.8,68.3,0.1,0.2,-

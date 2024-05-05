@@ -7,12 +7,12 @@ import time
 # 웹 페이지 생성
 driver = webdriver.Chrome()
 driver.get('https://1xbet.whoscored.com/')
-time.sleep(1)
+time.sleep(2)
 
 # 팝업 제어
-popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
-popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
-time.sleep(1)
+#popup = driver.find_element(By.CLASS_NAME, 'webpush-swal2-container')
+#popup.find_element(By.CLASS_NAME, 'webpush-swal2-close').click()
+#time.sleep(1)
 
 url_list = ['https://1xbet.whoscored.com/Regions/81/Tournaments/3/Seasons/9120/Stages/21026/PlayerStatistics/Germany-Bundesliga-2022-2023',
             'https://1xbet.whoscored.com/Regions/81/Tournaments/3/Seasons/8667/Stages/19862/PlayerStatistics/Germany-Bundesliga-2021-2022',
@@ -29,7 +29,7 @@ for i in range(5):
 
     driver.get(url) # 해당 시즌으로 이동
     time.sleep(3)
-    # densive로 이동
+    # defnsive로 이동
     driver.find_element(By.XPATH, '//*[@id="stage-top-player-stats-options"]/li[2]/a').click()
     time.sleep(3)
 
@@ -54,7 +54,8 @@ for i in range(5):
             all_data.append(player_data)
         
         if j != next_tap[i]:
-            driver.find_element(By.ID, 'next').click()
+            buttons = driver.find_element(By.ID, 'statistics-paging-defensive')
+            buttons.find_element(By.ID, 'next').click()
             time.sleep(2)
 
     player_df = pd.DataFrame(all_data)    
