@@ -284,7 +284,7 @@ def referee_EDA_page():
     st.write(ft_trend_fig)
 
     # Fouls per Game
-    st.markdown('### 유럽 5대 리그 Fouls/Game 분석')
+    st.markdown('### 유럽 5대 리그 Fouls/Game 트렌드 분석')
     BL_Fouls_pg_trend = []
     for data in BL_referee_data_list:
         BL_Fouls_pg_trend.append(data['Fouls_pg'].sum()/data.shape[0])
@@ -335,3 +335,15 @@ def referee_EDA_page():
     fg_trend_fig = px.line(fg_tmp, x='Season', y='Fouls_pg', color='League', markers=True, symbol='League', color_discrete_sequence=color_list)
     fg_trend_fig.update_yaxes(range=[15, 30])
     st.write(fg_trend_fig)
+
+    st.markdown('## 인사이트 도출')
+    st.write('#### 1. Laliga와 SerieA의 경우 다른 리그보다 Yellow Card가 많이 나온다.')
+    st.write('- 선수들은 몸싸움을 너무 거칠게 하지 않도록 조심해야된다.')
+    st.write('#### 2. EPL, Bundesliga는 타 리그에 비해 Red Card가 적다.')
+    st.write('- 가설: 감독들이 경고 받은 선수 관리에 더 신경 쓸 것이다.')
+    st.write('- 가설: 두 리그의 심판(리그 특성)이 Red카드에 관대할 것이다.')
+    st.write('#### 3. 19-20, 20-21 시즌 Fouls/Tackles 값이 증가했다.')
+    st.write('- 가설: 모든 리그에서 코로나 시기 선수 보호를 위해 태클을 엄격히 다뤘다.')
+    st.write('- 가설: 두 시즌 5개 리그 선수들 모두 거친 몸싸움을 시도했다.')
+    st.write('#### 4. EPL의 게임당 파울 횟수가 가장 적다.')
+    st.write('- 가설: EPL이 타 리그에 비해 몸싸움에 관대하다.')
