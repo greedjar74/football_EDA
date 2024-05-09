@@ -8,7 +8,7 @@ import os
 import altair as alt
 
 def referee_EDA_page():
-    color_list = ['black', '#458ccc', '#d76ddb', '#8e40c0', '#8dc701']
+    color_list = ['#ff7600', '#458ccc', '#d76ddb', '#8e40c0', '#8dc701']
 
     BL_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/BL_referee_5seasons.csv')
     EPL_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/EPL_referee_5seasons.csv')
