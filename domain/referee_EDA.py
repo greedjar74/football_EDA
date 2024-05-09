@@ -8,7 +8,7 @@ import os
 import altair as alt
 
 def referee_EDA_page():
-    color_list = ['black', '#458ccc', '#d76ddb', '#cb0042', '#8dc701']
+    color_list = ['black', '#458ccc', '#d76ddb', '#8e40c0', '#8dc701']
 
     BL_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/BL_referee_5seasons.csv')
     EPL_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/EPL_referee_5seasons.csv')
@@ -209,3 +209,129 @@ def referee_EDA_page():
     red_trend_fig = px.line(red_tmp, x='Season', y='Red', color='League', markers=True, symbol='League', color_discrete_sequence=color_list)
     red_trend_fig.update_yaxes(range=[0, 150])
     st.write(red_trend_fig)
+
+    # Fouls per Tackles
+    st.markdown('### 유럽 5대 리그 Fouls/Tackles 분석')
+    F_per_T_tmp = []
+    F_per_T_tmp.append(BL_referee['Fouls_Tackles'].sum()/BL_referee.shape[0])
+    F_per_T_tmp.append(EPL_referee['Fouls_Tackles'].sum()/EPL_referee.shape[0])
+    F_per_T_tmp.append(LL_referee['Fouls_Tackles'].sum()/LL_referee.shape[0])
+    F_per_T_tmp.append(L1_referee['Fouls_Tackles'].sum()/L1_referee.shape[0])
+    F_per_T_tmp.append(SA_referee['Fouls_Tackles'].sum()/SA_referee.shape[0])
+
+    F_per_T_df = pd.DataFrame(F_per_T_tmp, index=['Bundesliga', 'EPL', 'Laliga', 'Ligue1', 'SerieA'], columns=['Fouls/Tackles'])
+    F_per_T_df.reset_index(inplace=True)
+    F_per_T_df.columns = ['League', 'Fouls/Tackles']
+    
+
+    FT = px.bar(F_per_T_df, x=['BL', 'EPL', 'LL', 'L1', 'SA'], y='Fouls/Tackles', color=['BL', 'EPL', 'LL', 'L1', 'SA'], color_discrete_map={'BL': color_list[0], 'EPL': color_list[1], 'LL': color_list[2], 'L1': color_list[3], 'SA': color_list[4]})
+    FT.update_xaxes(title_text="League")
+    # Streamlit에 그래프 출력
+    st.plotly_chart(FT)
+
+    # Fouls per Tackles 값 변화
+    st.markdown('### 유럽 5대 리그 Fouls/Tackles 트렌드 분석')
+    BL_F_per_T_trend = []
+    for data in BL_referee_data_list:
+        BL_F_per_T_trend.append(data['Fouls_Tackles'].sum()/data.shape[0])
+
+    BL_F_per_T_trend_df = pd.DataFrame(BL_F_per_T_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    BL_F_per_T_trend_df.reset_index(inplace=True)
+    BL_F_per_T_trend_df.columns = ['Season', 'Fouls_per_Tackles']
+    BL_F_per_T_trend_df
+
+    EPL_F_per_T_trend = []
+    for data in EPL_referee_data_list:
+        EPL_F_per_T_trend.append(data['Fouls_Tackles'].sum()/data.shape[0])
+
+    EPL_F_per_T_trend_df = pd.DataFrame(EPL_F_per_T_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    EPL_F_per_T_trend_df.reset_index(inplace=True)
+    EPL_F_per_T_trend_df.columns = ['Season', 'Fouls_per_Tackles']
+    
+    LL_F_per_T_trend = []
+    for data in LL_referee_data_list:
+        LL_F_per_T_trend.append(data['Fouls_Tackles'].sum()/data.shape[0])
+
+    LL_F_per_T_trend_df = pd.DataFrame(LL_F_per_T_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    LL_F_per_T_trend_df.reset_index(inplace=True)
+    LL_F_per_T_trend_df.columns = ['Season', 'Fouls_per_Tackles']
+
+    L1_F_per_T_trend = []
+    for data in L1_referee_data_list:
+        L1_F_per_T_trend.append(data['Fouls_Tackles'].sum()/data.shape[0])
+
+    L1_F_per_T_trend_df = pd.DataFrame(L1_F_per_T_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    L1_F_per_T_trend_df.reset_index(inplace=True)
+    L1_F_per_T_trend_df.columns = ['Season', 'Fouls_per_Tackles']
+
+    SA_F_per_T_trend = []
+    for data in SA_referee_data_list:
+        SA_F_per_T_trend.append(data['Fouls_Tackles'].sum()/data.shape[0])
+
+    SA_F_per_T_trend_df = pd.DataFrame(SA_F_per_T_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    SA_F_per_T_trend_df.reset_index(inplace=True)
+    SA_F_per_T_trend_df.columns = ['Season', 'Fouls_per_Tackles']
+
+    BL_F_per_T_trend_df['League'] = ['BL', 'BL', 'BL', 'BL', 'BL']
+    EPL_F_per_T_trend_df['League'] = ['EPL', 'EPL', 'EPL', 'EPL', 'EPL']
+    LL_F_per_T_trend_df['League'] = ['LL', 'LL', 'LL', 'LL', 'LL']
+    L1_F_per_T_trend_df['League'] = ['L1', 'L1', 'L1', 'L1', 'L1']
+    SA_F_per_T_trend_df['League'] = ['SA', 'SA', 'SA', 'SA', 'SA']
+
+    ft_tmp = pd.concat([BL_F_per_T_trend_df, EPL_F_per_T_trend_df, LL_F_per_T_trend_df, L1_F_per_T_trend_df, SA_F_per_T_trend_df], ignore_index=True)
+    ft_trend_fig = px.line(ft_tmp, x='Season', y='Fouls_per_Tackles', color='League', markers=True, symbol='League', color_discrete_sequence=color_list)
+    ft_trend_fig.update_yaxes(range=[0.5, 1])
+    st.write(ft_trend_fig)
+
+    # Fouls per Game
+    st.markdown('### 유럽 5대 리그 Fouls/Game 분석')
+    BL_Fouls_pg_trend = []
+    for data in BL_referee_data_list:
+        BL_Fouls_pg_trend.append(data['Fouls_pg'].sum()/data.shape[0])
+
+    BL_Fouls_pg_trend_df = pd.DataFrame(BL_Fouls_pg_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    BL_Fouls_pg_trend_df.reset_index(inplace=True)
+    BL_Fouls_pg_trend_df.columns = ['Season', 'Fouls_pg']
+
+    EPL_Fouls_pg_trend = []
+    for data in EPL_referee_data_list:
+        EPL_Fouls_pg_trend.append(data['Fouls_pg'].sum()/data.shape[0])
+
+    EPL_Fouls_pg_trend_df = pd.DataFrame(EPL_Fouls_pg_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    EPL_Fouls_pg_trend_df.reset_index(inplace=True)
+    EPL_Fouls_pg_trend_df.columns = ['Season', 'Fouls_pg']
+
+    LL_Fouls_pg_trend = []
+    for data in LL_referee_data_list:
+        LL_Fouls_pg_trend.append(data['Fouls_pg'].sum()/data.shape[0])
+
+    LL_Fouls_pg_trend_df = pd.DataFrame(LL_Fouls_pg_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    LL_Fouls_pg_trend_df.reset_index(inplace=True)
+    LL_Fouls_pg_trend_df.columns = ['Season', 'Fouls_pg']
+
+    L1_Fouls_pg_trend = []
+    for data in L1_referee_data_list:
+        L1_Fouls_pg_trend.append(data['Fouls_pg'].sum()/data.shape[0])
+
+    L1_Fouls_pg_trend_df = pd.DataFrame(L1_Fouls_pg_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    L1_Fouls_pg_trend_df.reset_index(inplace=True)
+    L1_Fouls_pg_trend_df.columns = ['Season', 'Fouls_pg']
+
+    SA_Fouls_pg_trend = []
+    for data in SA_referee_data_list:
+        SA_Fouls_pg_trend.append(data['Fouls_pg'].sum()/data.shape[0])
+
+    SA_Fouls_pg_trend_df = pd.DataFrame(SA_Fouls_pg_trend,index=['18-19', '19-20', '20-21', '21-22', '22-23'])
+    SA_Fouls_pg_trend_df.reset_index(inplace=True)
+    SA_Fouls_pg_trend_df.columns = ['Season', 'Fouls_pg']
+
+    BL_Fouls_pg_trend_df['League'] = ['BL', 'BL', 'BL', 'BL', 'BL']
+    EPL_Fouls_pg_trend_df['League'] = ['EPL', 'EPL', 'EPL', 'EPL', 'EPL']
+    LL_Fouls_pg_trend_df['League'] = ['LL', 'LL', 'LL', 'LL', 'LL']
+    L1_Fouls_pg_trend_df['League'] = ['L1', 'L1', 'L1', 'L1', 'L1']
+    SA_Fouls_pg_trend_df['League'] = ['SA', 'SA', 'SA', 'SA', 'SA']
+
+    fg_tmp = pd.concat([BL_Fouls_pg_trend_df, EPL_Fouls_pg_trend_df, LL_Fouls_pg_trend_df, L1_Fouls_pg_trend_df, SA_Fouls_pg_trend_df], ignore_index=True)
+    fg_trend_fig = px.line(fg_tmp, x='Season', y='Fouls_pg', color='League', markers=True, symbol='League', color_discrete_sequence=color_list)
+    fg_trend_fig.update_yaxes(range=[15, 30])
+    st.write(fg_trend_fig)
