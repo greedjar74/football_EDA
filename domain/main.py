@@ -7,15 +7,9 @@ import plotly.express as px
 import os
 from PIL import Image
 
-from referee_EDA import referee_EDA_page
+from referee_main import referee_main
+from feature_main import feature_main
 from Player import Player
-from feature_BL import feature_BL
-from feature_EPL import feature_EPL
-from feature_LL import feature_LL
-from feature_L1 import feature_L1
-from feature_SA import feature_SA
-from feature_Big5 import feature_Big5
-from feature import feature
 
 # 페이지 선언 
 def main_page():
@@ -23,19 +17,12 @@ def main_page():
     st.sidebar.title('Side Main 🎈')
 
 def page2():
-    feature()
+    feature_main()
+    st.sidebar.title('승리 기여 주요 지표')
 
 def page3():
-    referee_EDA_page()
+    referee_main()
     st.sidebar.title('Referee EDA')
-    st.sidebar.write("### 유럽 5대 리그 Yellow Card 분석")
-    st.sidebar.write("### 유럽 5대 리그 Yellow Card 트렌드 분석")
-    st.sidebar.write("### 유럽 5대 리그 Red Card 분석")
-    st.sidebar.write("### 유럽 5대 리그 Red Card 트렌드 분석")
-    st.sidebar.write("### 유럽 5대 리그 Fouls/Tackles 분석")
-    st.sidebar.write("### 유럽 5대 리그 Fouls/Tackles 트렌드 분석")
-    st.sidebar.write("### 유럽 5대 리그 Fouls/Game 트렌드 분석")
-    st.sidebar.write("### 인사이트 도출")
 
 def page4():
     Player()
