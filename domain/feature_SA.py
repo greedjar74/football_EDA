@@ -7,12 +7,12 @@ import plotly.express as px
 import os
 
 def feature_SA():
-    SA_FW = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_FW_Player.csv')
-    SA_AM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_AM_Player.csv')
-    SA_M = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_M_Player.csv')
-    SA_DM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_DM_Player.csv')
-    SA_D = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_D_Player.csv')
-    SA_GK = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_GK_Player.csv')
+    SA_FW = pd.read_csv('../EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_FW_Player.csv')
+    SA_AM = pd.read_csv('../EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_AM_Player.csv')
+    SA_M = pd.read_csv('../EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_M_Player.csv')
+    SA_DM = pd.read_csv('../EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_DM_Player.csv')
+    SA_D = pd.read_csv('../EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_D_Player.csv')
+    SA_GK = pd.read_csv('../EDA/SerieA/SerieA_data/SerieA_Position_Player_Stats/SA_GK_Player.csv')
 
     SA_FW.drop('Unnamed: 0', axis=1, inplace=True)
     SA_AM.drop('Unnamed: 0', axis=1, inplace=True)
@@ -21,7 +21,7 @@ def feature_SA():
     SA_D.drop('Unnamed: 0', axis=1, inplace=True)
     SA_GK.drop('Unnamed: 0', axis=1, inplace=True)
 
-    SA_Team = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/SerieA/SerieA_data/Serie_22_23_Team_Table_Added.csv')
+    SA_Team = pd.read_csv('../EDA/SerieA/SerieA_data/Serie_22_23_Team_Table_Added.csv')
     SA_Team.columns = ['Team', 'P', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts', 'Goals', 'Shots pg', 'Yellow', 'Red', 'Poss%', 'Pass%', 'A_Won', 'Rating', 'Shoted pg', 'Tackles pg', 'Intercept pg', 'Fouls pg', 'Offsides pg', 'Shots OT pg', 'Dribbles pg', 'Fouled pg']
     st.header('SerieA 포지션별 승리기여 주요 지표 추출')
 

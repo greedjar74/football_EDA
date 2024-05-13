@@ -45,11 +45,11 @@ def Player():
                          'D':['PS%', 'AvgP'],
                          'GK':['PS%']}}
 
-      BL_player_df = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/player stats value/BL_player_stats_value.csv')
-      EPL_player_df = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/player stats value/EPL_player_stats_value.csv')
-      LL_player_df = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/player stats value/LL_player_stats_value.csv')
-      L1_player_df = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/player stats value/L1_player_stats_value.csv')
-      SA_player_df = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/player stats value/SA_player_stats_value.csv')
+      BL_player_df = pd.read_csv('../player stats value/BL_player_stats_value.csv')
+      EPL_player_df = pd.read_csv('../player stats value/EPL_player_stats_value.csv')
+      LL_player_df = pd.read_csv('../player stats value/LL_player_stats_value.csv')
+      L1_player_df = pd.read_csv('../player stats value/L1_player_stats_value.csv')
+      SA_player_df = pd.read_csv('../player stats value/SA_player_stats_value.csv')
 
       BL_player_df.drop('Unnamed: 0', axis=1, inplace=True)
       EPL_player_df.drop('Unnamed: 0', axis=1, inplace=True)

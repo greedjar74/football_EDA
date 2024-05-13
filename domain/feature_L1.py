@@ -7,12 +7,12 @@ import plotly.express as px
 import os
 
 def feature_L1():
-    L1_FW = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/League1/League1_data/League1_Position_Player_Stats/L1_FW_Player.csv')
-    L1_AM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/League1/League1_data/League1_Position_Player_Stats/L1_AM_Player.csv')
-    L1_M = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/League1/League1_data/League1_Position_Player_Stats/L1_M_Player.csv')
-    L1_DM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/League1/League1_data/League1_Position_Player_Stats/L1_DM_Player.csv')
-    L1_D = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/League1/League1_data/League1_Position_Player_Stats/L1_D_Player.csv')
-    L1_GK = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/League1/League1_data/League1_Position_Player_Stats/L1_GK_Player.csv')
+    L1_FW = pd.read_csv('../EDA/League1/League1_data/League1_Position_Player_Stats/L1_FW_Player.csv')
+    L1_AM = pd.read_csv('../EDA/League1/League1_data/League1_Position_Player_Stats/L1_AM_Player.csv')
+    L1_M = pd.read_csv('../EDA/League1/League1_data/League1_Position_Player_Stats/L1_M_Player.csv')
+    L1_DM = pd.read_csv('../EDA/League1/League1_data/League1_Position_Player_Stats/L1_DM_Player.csv')
+    L1_D = pd.read_csv('../EDA/League1/League1_data/League1_Position_Player_Stats/L1_D_Player.csv')
+    L1_GK = pd.read_csv('../EDA/League1/League1_data/League1_Position_Player_Stats/L1_GK_Player.csv')
 
     L1_FW.drop('Unnamed: 0', axis=1, inplace=True)
     L1_AM.drop('Unnamed: 0', axis=1, inplace=True)
@@ -21,7 +21,7 @@ def feature_L1():
     L1_D.drop('Unnamed: 0', axis=1, inplace=True)
     L1_GK.drop('Unnamed: 0', axis=1, inplace=True)
 
-    L1_Team = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/League1/League1_data/League1_22_23_Team_Table_Added.csv')
+    L1_Team = pd.read_csv('../EDA/League1/League1_data/League1_22_23_Team_Table_Added.csv')
     L1_Team.drop('Unnamed: 0', axis=1, inplace=True)
     
     st.header('Ligue1 포지션별 승리기여 주요 지표 추출')

@@ -7,12 +7,12 @@ import plotly.express as px
 import os
 
 def feature_LL():
-    LL_FW = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_FW_Player.csv')
-    LL_AM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_AM_Player.csv')
-    LL_M = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_M_Player.csv')
-    LL_DM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_DM_Player.csv')
-    LL_D = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_D_Player.csv')
-    LL_GK = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_GK_Player.csv')
+    LL_FW = pd.read_csv('../EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_FW_Player.csv')
+    LL_AM = pd.read_csv('../EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_AM_Player.csv')
+    LL_M = pd.read_csv('../EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_M_Player.csv')
+    LL_DM = pd.read_csv('../EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_DM_Player.csv')
+    LL_D = pd.read_csv('../EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_D_Player.csv')
+    LL_GK = pd.read_csv('../EDA/Laliga/Laliga_data/LL_Position_Player_Stats/LL_GK_Player.csv')
 
     LL_FW.drop('Unnamed: 0', axis=1, inplace=True)
     LL_AM.drop('Unnamed: 0', axis=1, inplace=True)
@@ -20,8 +20,9 @@ def feature_LL():
     LL_DM.drop('Unnamed: 0', axis=1, inplace=True)
     LL_D.drop('Unnamed: 0', axis=1, inplace=True)
     LL_GK.drop('Unnamed: 0', axis=1, inplace=True)
+    
 
-    LL_Team = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Laliga/Laliga_data/Laliga_22_23_Team_Table_Added.csv')
+    LL_Team = pd.read_csv('../EDA/Laliga/Laliga_data/Laliga_22_23_Team_Table_Added.csv')
 
     st.header('Laliga 포지션별 승리기여 주요 지표 추출')
 

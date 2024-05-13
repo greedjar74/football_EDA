@@ -13,8 +13,14 @@ from Player import Player
 
 # 페이지 선언 
 def main_page():
-    st.title('Main Page 🎈')
-    st.sidebar.title('Side Main 🎈')
+    st.title('Football EDA')
+    st.write('### 내가 분석한 내용 구경해볼래?')
+    st.sidebar.write('### 리그별 승리 주요 지표')
+    st.sidebar.write('### Referee EDA')
+    st.sidebar.write('### 선수 성공여부 파악')
+    main_image = Image.open('../image/main.jpg')
+    st.write(main_image)
+    st.write('???: 궁금해서 뛰어가는 중')
 
 def page2():
     feature_main()
@@ -29,6 +35,7 @@ def page4():
     st.sidebar.title('선수 성공 여부 파악')
     st.sidebar.write('좋아하는 선수와 리그 스탯을 통해')
     st.sidebar.write('성공 여부를 알아보세요!')
+    st.sidebar.write('(22-23시즌 선수 한정..)')
 
 
 # 딕셔너리 선언 {  ‘selectbox항목’ : ‘페이지명’ …  }

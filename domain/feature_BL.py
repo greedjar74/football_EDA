@@ -7,12 +7,12 @@ import plotly.express as px
 import os
 
 def feature_BL():
-    BL_FW = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Bundesliga/Budesliga_data/BL_Position_Player_Stats/BL_FW_Player.csv')
-    BL_AM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Bundesliga/Budesliga_data/BL_Position_Player_Stats/BL_AM_Player.csv')
-    BL_M = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Bundesliga/Budesliga_data/BL_Position_Player_Stats/BL_M_Player.csv')
-    BL_DM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Bundesliga/Budesliga_data/BL_Position_Player_Stats/BL_DM_Player.csv')
-    BL_D = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Bundesliga/Budesliga_data/BL_Position_Player_Stats/BL_D_Player.csv')
-    BL_GK = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Bundesliga/Budesliga_data/BL_Position_Player_Stats/BL_GK_Player.csv')
+    BL_FW = pd.read_csv('../EDA/Bundesliga//Budesliga_data/BL_Position_Player_Stats/BL_FW_Player.csv')
+    BL_AM = pd.read_csv('../EDA/Bundesliga//Budesliga_data/BL_Position_Player_Stats/BL_AM_Player.csv')
+    BL_M = pd.read_csv('../EDA/Bundesliga//Budesliga_data/BL_Position_Player_Stats/BL_M_Player.csv')
+    BL_DM = pd.read_csv('../EDA/Bundesliga//Budesliga_data/BL_Position_Player_Stats/BL_DM_Player.csv')
+    BL_D = pd.read_csv('../EDA/Bundesliga//Budesliga_data/BL_Position_Player_Stats/BL_D_Player.csv')
+    BL_GK = pd.read_csv('../EDA/Bundesliga//Budesliga_data/BL_Position_Player_Stats/BL_GK_Player.csv')
 
     BL_FW.drop('Unnamed: 0', axis=1, inplace=True)
     BL_AM.drop('Unnamed: 0', axis=1, inplace=True)
@@ -21,7 +21,7 @@ def feature_BL():
     BL_D.drop('Unnamed: 0', axis=1, inplace=True)
     BL_GK.drop('Unnamed: 0', axis=1, inplace=True)
 
-    BL_Team = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/Bundesliga/Budesliga_data/Bundesliga_22_23_Team_Table_Added.csv')
+    BL_Team = pd.read_csv('../EDA/Bundesliga/Budesliga_data/Bundesliga_22_23_Team_Table_Added.csv')
     BL_Team.columns = ['Team', 'P', 'W', 'D', 'L', 'GF', 'GA', 'GD', 'Pts', 'Goals',
         'Shots pg', 'Yellow', 'Red', 'Poss%', 'Pass%', 'A_Won', 'Rating',
         'Shoted pg', 'Tackles pg', 'Intercept pg', 'Fouls pg', 'Offsides pg',

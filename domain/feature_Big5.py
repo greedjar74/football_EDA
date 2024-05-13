@@ -7,12 +7,12 @@ import plotly.express as px
 import os
 
 def feature_Big5():
-    FW = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/position data/FW_5seasons.csv')
-    AM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/position data/AM_5seasons.csv')
-    M = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/position data/M_5seasons.csv')
-    DM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/position data/DM_5seasons.csv')
-    D = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/position data/D_5seasons.csv')
-    GK = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/position data/GK_5seasons.csv')
+    FW = pd.read_csv('../5_seasons/position data/FW_5seasons.csv')
+    AM = pd.read_csv('../5_seasons/position data/AM_5seasons.csv')
+    M = pd.read_csv('../5_seasons/position data/M_5seasons.csv')
+    DM = pd.read_csv('../5_seasons/position data/DM_5seasons.csv')
+    D = pd.read_csv('../5_seasons/position data/D_5seasons.csv')
+    GK = pd.read_csv('../5_seasons/position data/GK_5seasons.csv')
 
     FW.drop('Unnamed: 0', axis=1, inplace=True)
     AM.drop('Unnamed: 0', axis=1, inplace=True)

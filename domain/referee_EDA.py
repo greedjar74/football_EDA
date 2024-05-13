@@ -10,17 +10,17 @@ import altair as alt
 def referee_EDA():
     color_list = ['#ff7600', '#458ccc', '#d76ddb', '#8e40c0', '#8dc701']
 
-    BL_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/BL_referee_5seasons.csv')
-    EPL_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/EPL_referee_5seasons.csv')
-    LL_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/LL_referee_5seasons.csv')
-    L1_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/L1_referee_5seasons.csv')
-    SA_referee = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/referee/SA_referee_5seasons.csv')
+    BL_referee = pd.read_csv('../5_seasons/referee/BL_referee_5seasons.csv')
+    EPL_referee = pd.read_csv('../5_seasons/referee/EPL_referee_5seasons.csv')
+    LL_referee = pd.read_csv('../5_seasons/referee/LL_referee_5seasons.csv')
+    L1_referee = pd.read_csv('../5_seasons/referee/L1_referee_5seasons.csv')
+    SA_referee = pd.read_csv('../5_seasons/referee/SA_referee_5seasons.csv')
 
-    BL_referee_path_list = os.listdir('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/Bundesliga/BL_Referee')
-    EPL_referee_path_list = os.listdir('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/EPL/EPL_Referee')
-    LL_referee_path_list = os.listdir('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/Laliga/LL_Referee')
-    L1_referee_path_list = os.listdir('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/League1/L1_Referee')
-    SA_referee_path_list = os.listdir('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/SerieA/SA_Referee')
+    BL_referee_path_list = os.listdir('../5_seasons/Bundesliga/BL_Referee')
+    EPL_referee_path_list = os.listdir('../5_seasons/EPL/EPL_Referee')
+    LL_referee_path_list = os.listdir('../5_seasons/Laliga/LL_Referee')
+    L1_referee_path_list = os.listdir('../5_seasons/League1/L1_Referee')
+    SA_referee_path_list = os.listdir('../5_seasons/SerieA/SA_Referee')
 
     BL_referee_path_list.sort()
     EPL_referee_path_list.sort()
@@ -31,31 +31,31 @@ def referee_EDA():
     # 5대 리그에 대해서 5시즌 데이터를 읽어온다.
     BL_referee_data_list = []
     for path in BL_referee_path_list:
-        tmp = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/Bundesliga/BL_Referee/' + path)
+        tmp = pd.read_csv('../5_seasons/Bundesliga/BL_Referee/' + path)
         tmp.drop('Unnamed: 0', axis=1, inplace=True)
         BL_referee_data_list.append(tmp)
 
     EPL_referee_data_list = []
     for path in EPL_referee_path_list:
-        tmp = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/EPL/EPL_Referee/'+path)
+        tmp = pd.read_csv('../5_seasons/EPL/EPL_Referee/'+path)
         tmp.drop('Unnamed: 0', axis=1, inplace=True)
         EPL_referee_data_list.append(tmp)
 
     LL_referee_data_list = []
     for path in LL_referee_path_list:
-        tmp = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/Laliga/LL_Referee/' + path)
+        tmp = pd.read_csv('../5_seasons/Laliga/LL_Referee/' + path)
         tmp.drop('Unnamed: 0', axis=1, inplace=True)
         LL_referee_data_list.append(tmp)
 
     L1_referee_data_list = []
     for path in L1_referee_path_list:
-        tmp = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/League1/L1_Referee/' + path)
+        tmp = pd.read_csv('../5_seasons/League1/L1_Referee/' + path)
         tmp.drop('Unnamed: 0', axis=1, inplace=True)
         L1_referee_data_list.append(tmp)
 
     SA_referee_data_list = []
     for path in SA_referee_path_list:
-        tmp = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/5_seasons/SerieA/SA_Referee/' + path)
+        tmp = pd.read_csv('../5_seasons/SerieA/SA_Referee/' + path)
         tmp.drop('Unnamed: 0', axis=1, inplace=True)
         SA_referee_data_list.append(tmp)
 

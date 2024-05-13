@@ -7,12 +7,12 @@ import plotly.express as px
 import os
 
 def feature_EPL():
-    EPL_FW = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_FW_Player.csv')
-    EPL_AM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_AM_Player.csv')
-    EPL_M = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_M_Player.csv')
-    EPL_DM = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_DM_Player.csv')
-    EPL_D = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_D_Player.csv')
-    EPL_GK = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_GK_Player.csv')
+    EPL_FW = pd.read_csv('../EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_FW_Player.csv')
+    EPL_AM = pd.read_csv('../EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_AM_Player.csv')
+    EPL_M = pd.read_csv('../EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_M_Player.csv')
+    EPL_DM = pd.read_csv('../EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_DM_Player.csv')
+    EPL_D = pd.read_csv('../EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_D_Player.csv')
+    EPL_GK = pd.read_csv('../EDA/EPL/EPL_data/EPL_Position_Player_Stats/EPL_GK_Player.csv')
 
     EPL_FW.drop('Unnamed: 0', axis=1, inplace=True)
     EPL_AM.drop('Unnamed: 0', axis=1, inplace=True)
@@ -21,7 +21,7 @@ def feature_EPL():
     EPL_D.drop('Unnamed: 0', axis=1, inplace=True)
     EPL_GK.drop('Unnamed: 0', axis=1, inplace=True)
 
-    EPL_Team = pd.read_csv('/Users/kimhongseok/eda_side_project/football_EDA/EDA/EPL/EPL_data/EPL_Team.csv')
+    EPL_Team = pd.read_csv('../EDA/EPL/EPL_data/EPL_Team.csv')
     EPL_Team.drop('Unnamed: 0', axis=1, inplace=True)
 
     st.header('EPL 포지션별 승리기여 주요 지표 추출')
